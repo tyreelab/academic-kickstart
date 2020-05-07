@@ -12,24 +12,60 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Neuroscience"
+  description = ""
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "book-medical"
+  icon_pack = "fas"
+  name = "Medical Research"
+  description = ""
+
+[[feature]]
+  icon = "keyboard"
+  icon_pack = "fas"
+  name = "Science Writing"
+  description = ""
+
+[[feature]]
+  icon = "capsules"
+  icon_pack = "fas"
+  name = "Pharmaceutical Research"
+  description = ""
   
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Visualisation"
+  description = ""
+    
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = ""  
 
+[[feature]]
+  icon = "kiwi-bird"
+  icon_pack = "fas"
+  name = "Kiwi Ingenuity"
+  description = ""
+  
 +++

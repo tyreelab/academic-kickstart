@@ -1,75 +1,47 @@
 ---
-# Display name
-title: Nelson Bighettti
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+bio:
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - course: PhD in Psychology
+    institution: Universität Potsdam, Germany
+    year: 2017
+  - course: MSc in Psychology
+    institution: University of Otago, New Zealand
+    year: 2013
+  - course: BA in Psychology
+    institution: University of Otago, New Zealand
+    year: 2011
+email: "tyree.lab@gmail.com"
+interests:
+- Machine Learning in Medical Research
+- Data Visualization & Science Communication
+- Data Science & Analytics
+organizations:
+- name: Ireland-based
+  url: ""
+role: Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/susziet
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.nz/citations?user=EQh02t8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  link: https://github.com/tyreelab
+superuser: true
+title: Susan Tyree
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Susan Tyree is an Ireland-based research scientist, with an interest in data analytics, data science, neuroscience/neuropsychology, and science writing. Susan completed her doctoral research in the Molecular Genetics Laboratory at the German Institute of Human Technology in 2017 and subsequently completed three years of postdoctoral training in the Department of Psychiatry and Behavioral Sciences in the Medical School of Stanford University, California.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Susan has spent three years as a project lead on an idustry-based research project collaborating with a European pharmaceutical company on pre-clinical research trials related to impulsivity and mapping neurological pathways underlying complex choice behaviours. 

@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Freelance Data Scientist & Science Writer"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """
+  * Writing science communication pieces
+  * Explore potential uses for AI and Machine Learning techniques in medical datasets
+  * Data mining, data analysis, data visualisation, data presentation
+  * Use machine learning tools and statistical techniques to produce solutions to problems
+  """
+  
+[[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "Stanford University, School of Medicine"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2017-07-01"
+  date_end = "2020-02-29"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Project Lead on a Pre-Clinincal research collaboration with an interantional pharmaceutical company
+  * Neural circuit investigation - choice-behaviours
+  * Data analysis, data visualisation, data presentation
+  * Present project reports to key industry stakeholders
+  * Program data collection devices in various languages
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Doctoral Researcher"
+  company = "German Institute of Human Nutrition"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
+  location = "Potsdam"
+  date_start = "2013-05-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+   Responsibilities include:
+  
+  * Neural circuit investigation - perception & decision-making
+  * Fluorescent in-situ hybridisation
+  * Image analysis
+  * Program pipetting robots
+  """
 
 +++

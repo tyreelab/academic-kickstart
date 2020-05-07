@@ -14,14 +14,19 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Research Projects"
   url = "#projects"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
+
+[[main]]
+  name = "Genealogy Research"
+  url = "genealogy_research/"
+  weight = 50
 
 [[main]]
   name = "Contact"

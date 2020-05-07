@@ -24,10 +24,13 @@ This site will eventually hold a range of profile-types including:
 * **Ancestor Family Trees - oriented to finish on Susan Tyree**
 * **Ancestor Profiles - detailing the currently available information, historical reference material, and public records**
 * **Descendant Family Trees, showing all the descendants of key ancestors. To respect privacy I will finish branches at the last deceased family member - and only include living family members who appear in published family trees or those who have given persmission.**
+* **Family Trait Posts - linking to all family members with similar stories (i.e. military service, teachers, things like that).**
 
 If you have any questions or requests regarding this research please don't hesitate to contact me privately viw email or Facebook, or by the Contact form on this site if you don't have my contact details already.
 
 ## Please Note
 
 This in an ongoing project and these profiles and trees will continue to be updated and added to. Any suggestions or additional information will be warmly welcomed, but I may be a little slow going at first.
+
+If you have photographs or resources you think could add to this collection, I would be more than happy to pay for them to be digitised at the nearest available store to you, I'm always looking for photos to help bring our family members to life.
 

@@ -25,34 +25,9 @@ This site will eventually hold a range of profile-types including:
 * **Ancestor Profiles - detailing the currently available information, historical reference material, and public records**
 * **Descendant Family Trees, showing all the descendants of key ancestors. To respect privacy I will finish branches at the last deceased family member - and only include living family members who appear in published family trees or those who have given persmission.**
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+If you have any questions or requests regarding this research please don't hesitate to contact me privately viw email or Facebook, or by the Contact form on this site if you don't have my contact details already.
 
-## Delete tutorials
+## Please Note
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+This in an ongoing project and these profiles and trees will continue to be updated and added to. Any suggestions or additional information will be warmly welcomed, but I may be a little slow going at first.
 
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.

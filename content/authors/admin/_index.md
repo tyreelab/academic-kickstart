@@ -44,4 +44,4 @@ user_groups:
 
 Susan Tyree is an Ireland-based research scientist, with an interest in data analytics, data science, neuroscience/neuropsychology, and science writing. Susan completed her doctoral research in the Molecular Genetics Laboratory at the German Institute of Human Technology in 2017 and subsequently completed three years of postdoctoral training in the Department of Psychiatry and Behavioral Sciences in the Medical School of Stanford University, California.
 
-Susan has spent three years as a project lead on an idustry-based research project collaborating with a European pharmaceutical company on pre-clinical research trials related to impulsivity and mapping neurological pathways underlying complex choice behaviours. 
+Susan has spent three years as a project lead on an industry-based research project collaborating with a European pharmaceutical company on pre-clinical research trials related to impulsivity and mapping neurological pathways underlying complex choice behaviours. 

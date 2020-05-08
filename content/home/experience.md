@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Project Lead on a Pre-Clinincal research collaboration with an interantional pharmaceutical company
+  * Project Lead on a Pre-Clinincal research collaboration with an international pharmaceutical company
   * Neural circuit investigation - choice-behaviours
   * Data analysis, data visualisation, data presentation
   * Present project reports to key industry stakeholders

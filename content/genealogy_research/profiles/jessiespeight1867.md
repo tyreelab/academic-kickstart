@@ -3,7 +3,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 linktitle: Jessie M. Brown 1867-1958
 menu: 
-  profiles:
+  example:
     parent: Ancestor Profiles
     weight: 2
 title: Jessie McCulloch Brown

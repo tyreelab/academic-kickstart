@@ -13,7 +13,7 @@ weight: 2
 ---
 
 Jessie McCulloch Brown was born on the 3rd of November 1867 to parents Isabella Brown (née McFarlane) and Thomas Brown [BDM Historical Birth Records Registration #: 1958/23874].
-Jessie McCulloch Brown and Charles Speight were married in 1898 [^1] 
+Jessie McCulloch Brown and Charles Speight were married in 1898 [BDM Historical Marriage Records Registration #: 1898/4049].
 Charles and Jessie had five children together:
 Norman Charles Speight was born on the 6th of July in 1899 [BDM Historical Birth Records Registration #: 1865/18561]. Norman married Winifred Zeta Hunt in 1927 [BDM Historical Marriage Records Registration #: 1927/8365], and together they had two sons: Charles Herbert Speight, born 31st August, 1928, and Russel Norman Speight, born 12th of September, 1932. Norman died at his residence of 132 Cannington Road, in Dunedin at the age of 79 [BDM Historical Death Records Registration #: 1979/34126].
 Allan Francis Speight was born on the 16th of November in 1901 [BDM Historical Birth Records Registration #: 1901/18380]. Allan married Dorothy Frances Napier on the 20th of January 1932 [BDM Historical Marriage Records Registration #: 1932/2943], and together they had four sons: William Allen Speight, born 20th March 1933; Robert John Speight, born 2nd September, 1935; James Geoffrey Speight, born 2nd August, 1937; and David Napier Speight, born 16th April, 1942. Allan died on the 10th of February in 1974 at the age of 74 [BDM Historical Death Records Registration #: 1974/32815] he is buried with his wife in Lynwood Cemetery, Te Anau, Southland.
@@ -24,4 +24,3 @@ Charles Speight died on the 19th of February 1925 at the age of 62 [BDM Historic
 Jessie McCulloch Speight died 33 years later on the 7th of May 1958 at the age of 90 [BDM Historical Death Records Registration #: 1958/30298].
 
 
-[^1]: BDM Historical Marriage Records Registration #: 1898/4049.

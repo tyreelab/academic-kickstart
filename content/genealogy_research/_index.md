@@ -4,7 +4,7 @@ draft: false
 lastmod: "2018-09-09T00:00:00Z"
 linktitle: Genealogy Research
 menu:
- example:
+ ancestortrees:
     name: Genealogy Research
     weight: 1
 summary: Research about my ancestors and extended family.
@@ -25,7 +25,7 @@ This site will eventually hold a range of profile-types including:
 * **Ancestor Profiles - detailing the currently available information, historical reference material, and public records**
 * **Descendant Family Trees, showing all the descendants of key ancestors. To respect privacy I will finish branches at the last deceased family member - and only include living family members who appear in published family trees or those who have given persmission. If you wish to be added/removed from one of these trees please don't hesitate to contact me.**
 * **Family Trait Posts - linking to all family members with similar stories (i.e. military service, teachers, things like that).**
-* **cemetery Maps - We have clusters of ancestors in particular cemeteries around NZ - so I am hoping to map out where our ancestors are now resting.**
+* **Cemetery Maps - We have clusters of ancestors in particular cemeteries around NZ - so I am hoping to map out where our ancestors are now resting.**
 
 If you have any questions or requests regarding this research please don't hesitate to contact me privately via email or Facebook, or by the Contact form on this site if you don't have my contact details already.
 

@@ -4,7 +4,7 @@ draft: false
 lastmod: "2018-09-09T00:00:00Z"
 linktitle: Genealogy Research
 menu:
- ancestortrees:
+ other:
     name: Genealogy Research
     weight: 1
 summary: Research about my ancestors and extended family.

@@ -8,7 +8,7 @@ menu:
     name: Genealogy Research
     weight: 1
 summary: Research about my ancestors and extended family.
-title: Genealogy Research
+# title: Genealogy Research
 toc: true
 type: docs
 weight: 1

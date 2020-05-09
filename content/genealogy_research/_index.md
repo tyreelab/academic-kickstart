@@ -2,12 +2,12 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-# linktitle: Genealogy Research
-# menu:
-#   example:
-#     name: Genealogy Research
-#     weight: 1
-# summary: Research about my ancestors and extended family.
+linktitle: Genealogy Research
+menu:
+ example:
+    name: Genealogy Research
+    weight: 1
+summary: Research about my ancestors and extended family.
 title: Genealogy Research
 toc: true
 type: docs

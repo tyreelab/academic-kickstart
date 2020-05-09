@@ -2,12 +2,12 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Genealogy Research
-menu:
-  example:
-    name: Genealogy Research
-    weight: 1
-summary: Research about my ancestors and extended family.
+# linktitle: Genealogy Research
+# menu:
+#   example:
+#     name: Genealogy Research
+#     weight: 1
+# summary: Research about my ancestors and extended family.
 title: Genealogy Research
 toc: true
 type: docs
@@ -28,6 +28,7 @@ This site will eventually hold a range of profile-types including:
 * **cemetery Maps - We have clusters of ancestors in particular cemeteries around NZ - so I am hoping to map out where our ancestors are now resting.**
 
 If you have any questions or requests regarding this research please don't hesitate to contact me privately via email or Facebook, or by the Contact form on this site if you don't have my contact details already.
+
 
 ## Please Note
 

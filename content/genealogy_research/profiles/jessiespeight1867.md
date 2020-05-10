@@ -33,23 +33,22 @@ Jessie McCulloch Speight died 33 years later on the 7th of May 1958 at the age o
 
 ## References
 
-[^1]: Jessie's birth record[BDM Historical Birth Records Registration #: 1958/23874]
-[^2]: [BDM Historical Marriage Records Registration #: 1898/4049]
-[^3]: [BDM Historical Birth Records Registration #: 1865/18561]
-[^4]: [BDM Historical Marriage Records Registration #: 1927/8365]
-[^5]: [BDM Historical Death Records Registration #: 1979/34126]
-[^6]: [BDM Historical Birth Records Registration #: 1901/18380]
-[^7]: [BDM Historical Marriage Records Registration #: 1932/2943]
-[^8]: [BDM Historical Death Records Registration #: 1974/32815]
-[^9]: [BDM Historical Birth Records Registration #: 1904/8564]
-[^10]: [BDM Historical Marriage Records Registration #: 1930/450]
-[^11]: [BDM Historical Death Records Registration #: 1969/26622]
-[^12]: [BDM Historical Birth Records Registration #: 1908/6366]
-[^13]: [BDM Historical Marriage Records Registration #: 1934/4960]
-[^14]: [BDM Historical Death Records Registration #: 1995/43944]
-[^15]: [BDM Historical Birth Records Registration #: 1910/24537]
-[^16]: [BDM Historical Marriage Records Registration #: 1935/9458]
-[^17]: [BDM Historical Death Records Registration #: 2004/20291]
-[^18]: [BDM Historical Death Records Registration #: 1925/248]
-[^19]: [BDM Historical Death Records Registration #: 1958/30298]
-
+[^1]: Jessie's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1958/23874.
+[^2]: Jessie and Charles' marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1898/4049.
+[^3]: The birth record for Jessie's son Norman can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1865/18561.
+[^4]: The marriage record for Jessie's son Norman can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1927/8365
+[^5]: The death record for Jessie's son Norman can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1979/34126
+[^6]: The birth record for Jessie's son Allan can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1901/18380
+[^7]: The marriage record for Jessie's son Allan can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1932/2943
+[^8]: The death record for Jessie's son Allan can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1974/32815
+[^9]: The birth record for Jessie's son Hugh can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1904/8564
+[^10]: The marriage record for Jessie's son Hugh can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1930/450
+[^11]: The death record for Jessie's son Hugh can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1969/26622
+[^12]: The birth record for Jessie's son Colin can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1908/6366
+[^13]: The marriage record for Jessie's son Colin can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1934/4960
+[^14]: The death record for Jessie's son Colin can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1995/43944
+[^15]: The birth record for Jessie's daughter Winifred can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1910/24537
+[^16]: The marriage record for Jessie's daughter Winifred can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1935/9458
+[^17]: The death record for Jessie's daughter Winifred can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 2004/20291
+[^18]: The death record for Jessie's husband Charles can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1925/248
+[^19]: Jessie's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1958/30298

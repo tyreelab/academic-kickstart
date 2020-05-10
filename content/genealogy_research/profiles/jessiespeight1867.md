@@ -12,8 +12,10 @@ type: docs
 weight: 2
 ---
 
+## Birth
 Jessie McCulloch Brown was born on the 3rd of November 1867 to parents Isabella Brown (n&eacute;e McFarlane) and Thomas Brown [^1].
 
+## Marriage & Children
 Jessie McCulloch Brown and Charles Speight were married in 1898 [^2].
 
 Charles and Jessie had five children together:
@@ -29,6 +31,8 @@ Charles and Jessie had five children together:
 * Winifred Jessie Speight was born on the 2nd of November in 1910 [^15]. Winifred married Glynne Mansell Lloyd on the 10th of April in 1935 [^16], and together they had three sons. Winifred died in 2004 [^17].
 
 Jessie's husband Charles Speight died on the 19th of February 1925 at the age of 62 [^18].
+
+## Death
 Jessie McCulloch Speight died 33 years later on the 7th of May 1958 at the age of 90 [^19].
 
 ## References

@@ -16,9 +16,7 @@ weight: 2
 Jessie McCulloch Brown was born on the 3rd of November 1867 to parents Isabella Brown (n&eacute;e McFarlane) and Thomas Brown [^1].
 
 ## Marriage & Children
-Jessie McCulloch Brown and Charles Speight were married in 1898 [^2].
-
-Charles and Jessie had five children together:
+Jessie McCulloch Brown and Charles Speight were married in 1898 [^2], they had five children together:
 
 * Norman Charles Speight was born on the 6th of July in 1899 [^3]. Norman married Winifred Zeta Hunt in 1927 [^4], and together they had two sons: Charles Herbert Speight, born 31st August, 1928, and Russel Norman Speight, born 12th of September, 1932. Norman died at his residence of 132 Cannington Road, in Dunedin at the age of 79 [^5].
 

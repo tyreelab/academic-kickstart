@@ -12,11 +12,7 @@ type: docs
 weight: 1
 ---
 
-## Flexibility
+## Current Descendant Trees
 
-This feature can be used for publishing content such as:
+* [Descendants of James Speight (1864 - 1887)](https://susantyree.com/genealogy_research/descendanttrees/jamesspeight1834descendants/)
 
-* [A relative link from one post to another post](https://susantyree.com/genealogy_research/ancestortrees/speight_tree/)
-
-* **Project or software documentation**
-* **Tutorials**

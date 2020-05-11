@@ -21,7 +21,7 @@ weight: 1
 
 This site will eventually hold a range of profile-types including:
 
-* **{{< hl >}}Ancestor Family Trees{{< /hl >}}** - oriented to finish on Susan Tyree
+* [**{{< hl >}}Ancestor Family Trees{{< /hl >}}**](https://susantyree.com/genealogy_research/ancestortrees/overvier/) - oriented to finish on Susan Tyree
 * **{{< hl >}}Ancestor Profiles{{< /hl >}}** - detailing the currently available information, historical reference material, and public records
 * **{{< hl >}}Descendant Family Trees{{< /hl >}}** - showing all the descendants of key ancestors. To respect privacy I will finish branches at the last deceased family member - and only include living family members who appear in published family trees or those who have given persmission. If you wish to be added/removed from one of these trees please don't hesitate to contact me.
 * **{{< hl >}}Family Trait Posts{{< /hl >}}** - linking to all family members with similar stories (i.e. military service, teachers, things like that).

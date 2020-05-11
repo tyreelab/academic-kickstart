@@ -15,3 +15,5 @@ weight: 1
 ## Current Ancestor Profiles
 
 * [Jessie McCulloch Brown (1867 - 1958)](https://susantyree.com/genealogy_research/profiles/jessiespeight1867/)
+
+* [Matilda Sheppard (1844 - 1916)](https://susantyree.com/genealogy_research/profiles/matildasheppard1844/)

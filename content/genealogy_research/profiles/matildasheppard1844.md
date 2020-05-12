@@ -33,7 +33,7 @@ The English Shipping news reported two other passengers with the surname Bardsle
 
 ## Children
 Matilda and John had one son in England before moving to New Zealand:
-* William Julian Bardsley was born in Stockport Cheshire, England, in the Oct-Dec quater of 1865.[^6] William emigrated to New Zealand with his parents in 1876 at the age of 10. In 1897, William married Lucy Jane Jefcoate,[^7] and together they had three children: a son named Ernest Milton Bardsley, born on the 11th of February, 1898;[^8] a daughter named Winifred Jefcoate Bardsley, born on the 13th of February, 1899;[^9] and a daughter named Katrena Rosalind Bardsley, born on the 19th of November, 1905[^10]. William passed away on the 25th of May in 1946 [^11].
+* William Julian Bardsley was born in Stockport Cheshire, England, in the Oct-Dec quater of 1865.[^6] William emigrated to New Zealand with his parents in 1876 at the age of 10. In 1897, William married Lucy Jane Jefcoate,[^7] and together they had three children: a son named Ernest Milton Bardsley, born on the 11th of February, 1898;[^8] a daughter named Winifred Jefcoate Bardsley, born on the 13th of February, 1899;[^9] and a daughter named Katrena Rosalind Bardsley, born on the 19th of November, 1905.[^10] William passed away on the 25th of May in 1946.[^11]
 
 After settling in New Zealand, Matilda and John went on to have more children - I'm sure about two of them but still need to confirm one:
 * Potential child - John James Bardsley was born in 1878,[^12] but I will look into that a bit more before adding in any deets.

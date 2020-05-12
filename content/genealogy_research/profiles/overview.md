@@ -14,6 +14,8 @@ weight: 1
 
 ## Current Ancestor Profiles
 
+* [Alexander Livingston Wilson (1848 - 1923)](https://susantyree.com/genealogy_research/profiles/alexanderlwilson1848/)
+
 * [Jessie McCulloch Brown (1867 - 1958)](https://susantyree.com/genealogy_research/profiles/jessiespeight1867/)
 
 * [Matilda Sheppard (1844 - 1916)](https://susantyree.com/genealogy_research/profiles/matildasheppard1844/)

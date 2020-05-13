@@ -38,7 +38,6 @@ According to Alexander's obituary, he was one of New Zealand's pioneer settlers 
 ## Death
 Around the time of his eldest son's suicide, Alexander was "compelled by ill health to give up active work", and six months later, on the 9th of October, 1923,[^3] Alexander passed away at his home in Makarewa. I found an obituary in some old family records but can't tell which paper it was from (pictured below)[^2].
 
-
 {{< figure library="true" src="AlexanderWilson1848Obituary.jpg" title="Alexander L. Wilson - Obituary" lightbox="true" >}}
 
 ## References

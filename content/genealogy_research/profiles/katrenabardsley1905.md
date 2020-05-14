@@ -23,6 +23,7 @@ Katrena Rosalind Bardsley was born on the 19th of November in 1905 in Timaru, Ca
 ## Engagement
 
 
+
 ## Marriage & Family Life
 On the 11th of March in 1930 Katrena Rosalind Bardsley married Hugh Thomas Speight [^6], they were married by the Reverend Ernest S. Tuckwell.[^7]  [^8]
 {{< figure library="true" src="Bardsley-Speight-Wedding_2.jpg" title="Speight - Bardsley Wedding announcements. Otago Daily Times (Left) and Evening Star (Right)" lightbox="true" >}}
@@ -38,14 +39,13 @@ The ceremony was held at the Hanover St Baptist Church, and afterwards a wedding
 [^10]: Speight - Bardsley Wedding. Otago Daily Times Report - https://paperspast.natlib.govt.nz/newspapers/ODT19300314.2.137 ; Otago Daily Times, Issue 20975, 14 March 1930, Page 16 ; Papers Past, the National Library of New Zealand
 
 ### 1932
-January 1932 brought with it a family wedding! Hughie and Katrena were in attendance at the wedding of Hughie's older brother, Allen Francis Speight, to Miss Dorothy Frances Napier.[^11] The wedding was held at St. Augustine's Church in Waimate, where Dorothy was from: her parents were Mr and Mrs W. D. Napier of "Te Kiteroa" Waimate.[^12]
+January 1932 brought with it a family wedding! Hughie and Katrena were in attendance at the wedding of Hughie's older brother, Allan Francis Speight, to Miss Dorothy Frances Napier.[^11] The wedding was held at St. Augustine's Church in Waimate, where Dorothy was from: her parents were Mr and Mrs W. D. Napier of "Te Kiteroa" Waimate.[^12]
 {{< figure library="true" src="Speight-Napier-Wedding.jpg" title="Speight - Napier Wedding. Press Report" lightbox="true" >}}
 [^11]: Hugh's brother Allan's marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1932/2943.
 [^12]: Newspaper coverage of the Speight-Napier wedding - https://paperspast.natlib.govt.nz/newspapers/CHP19320121.2.5 ; Press, Volume LXVIII, Issue 20450, 21 January 1932, Page 2 ; Papers Past, the National Library of New Zealand.  https://paperspast.natlib.govt.nz/newspapers/ODT19320122.2.102.1 ; Otago Daily Times, Issue 21549, 22 January 1932, Page 13 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/ESD19320123.2.124.5 ; Evening Star, Issue 21008, 23 January 1932, Page 22 ; Papers Past, the National Library of New Zealand
 
 Toward the end of March, 1932, Hughie and Katrena had Katrena's parents, William and Lucy - who had just returned from an extended tour abroad, to stay at their Sheen Street home aka "The Summit".[^13] At this point, Katrena would have been nearing the end of the first trimester of her pregnancy with her first child.
 {{< figure library="true" src="Bardsley's-visit-Dunedin-1932.jpg" title="Katrena's Parents come to stay. Otago Daily Times Report" lightbox="true" >}}
-
 
 [^13]: Katrena's Parents come to stay. Otago Daily Times Report & Evening Star Report - https://paperspast.natlib.govt.nz/newspapers/ODT19320322.2.119 ; Otago Daily Times, Issue 21600, 22 March 1932, Page 14 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/ESD19320323.2.112.1 ; Evening Star, Issue 21059, 23 March 1932, Page 15 ; Papers Past, the National Library of New Zealand
 
@@ -68,6 +68,19 @@ In 1937, Katrena left to go on an adventure around America, spending some time w
 In May of 1938, the Evening Star published an article including some of Katrena's impressions of America:[^16]
 {{< figure library="true" src="KatrenaThoughtsOnAmerica.jpg" title="Katrena's Impressions of American Life - Evening Star" lightbox="true" >}}
 [^16]: Katrena's Impressions of American Life - https://paperspast.natlib.govt.nz/newspapers/ESD19380521.2.170.10 ; Evening Star, Issue 22963, 21 May 1938, Page 26 ; Papers Past, the National Library of New Zealand
+
+During her travels, Katrena spent time in San Francisco, Los Angeles, Philadelphia, Chicago, New York City, and Washington DC. While in Washington DC Katrena had the pleasure of meeting President Roosevelt and his wife Eleanor. Katrena found Eleanor to be a "very gracious woman, with lovely blue eyes, and photographic reproductions did not do her justice."[^17] 
+
+Hughie joined Katrena in May of 1983 for just shy of 6 weeks, he also saw San Francisco, Los Angeles, Vancouver, Yellow Stone, and Chicago. Whilst in Chicago, Hughie visited Pabst's and Schlitz's breweries in Milwaukee.[^18] Then Katrena and Hughie returned together in July. [^19]
+
+After the requisite number of welcome-home parties, Hughie and Katrena gave a couple of public talks about their travels in America.[^17]  [^20]
+[^21]
+
+[^17]: Travel Club Talk - Evening Star https://paperspast.natlib.govt.nz/newspapers/ESD19381116.2.12 ; Evening Star, Issue 23116, 16 November 1938, Page 2 ; Papers Past, the National Library of New Zealand
+[^18]: Hughie's thoughts on America - https://paperspast.natlib.govt.nz/newspapers/ODT19380813.2.155 ; Otago Daily Times, Issue 23577, 13 August 1938, Page 23 ; Papers Past, the National Library of New Zealand
+[^19]: Welcome home parties! https://paperspast.natlib.govt.nz/newspapers/ODT19380813.2.198.2 ; Otago Daily Times, Issue 23577, 13 August 1938, Page 31 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/ESD19380817.2.170.2 ; Evening Star, Issue 23038, 17 August 1938, Page 16 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/ESD19380820.2.153.3 ; Evening Star, Issue 23041, 20 August 1938, Page 26 ; Papers Past, the National Library of New Zealand.
+[^20]: Katrena gives a talk on her travels to the Women's Division NZ Farmers' Union - https://paperspast.natlib.govt.nz/newspapers/ODT19381022.2.178.2 ; Otago Daily Times, Issue 23637, 22 October 1938, Page 27 ; Papers Past, the National Library of New Zealand.
+[^21]: In August 1940 Katrena gave a talk on her trips in America at a social held to support the soldiers: https://paperspast.natlib.govt.nz/newspapers/ODT19400809.2.110 ; Otago Daily Times, Issue 24372, 9 August 1940, Page 7 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/ESD19400809.2.14 ; Evening Star, Issue 23650, 9 August 1940, Page 4 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/ESD19400810.2.131.2 ; Evening Star, Issue 23651, 10 August 1940, Page 16 ; Papers Past, the National Library of New Zealand.
 
 ## Acting
 

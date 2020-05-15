@@ -14,6 +14,8 @@ weight: 1
 
 ## Current Ancestor Profiles
 
+* Under construction - [Katrena Bardsley (1905 - 1968)](https://susantyree.com/genealogy_research/profiles/alexanderlwilson1848/)
+
 * [Alexander Livingston Wilson (1848 - 1923)](https://susantyree.com/genealogy_research/profiles/alexanderlwilson1848/)
 
 * [Jessie McCulloch Brown (1867 - 1958)](https://susantyree.com/genealogy_research/profiles/jessiespeight1867/)

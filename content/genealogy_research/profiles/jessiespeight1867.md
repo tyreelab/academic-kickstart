@@ -30,7 +30,7 @@ Jessie McCulloch Brown and Charles Speight were married in 1898 [^2], they had f
 
 * Hugh Speight was born on the 4th of July in 1904 [^9]. Hugh married [Katrena Rosalind Bardsley]({{< ref "/genealogy_research/profiles/katrenabardsley1905.md" >}}) on the 11th of March, 1930 [^10] and together they had one daughter Deirdre Mignon Speight, born in 1932. Hugh died on the 1st of February 1969 [^11].
 
-* Colin John Speight was born on the 16th of November in 1907 [^12]. Colin married Elinore Dorothy Lee in 1934 [^13], and together they had 4 children. Colin died on the 4th of September 1995 [^14].
+* Colin John Speight was born on the 16th of November in 1907 [^12]. Colin married Elinore Dorothy Lee on the 7th of June in 1934 [^13], and together they had 4 children. Colin died on the 4th of September 1995 [^14].
 
 * Winifred Jessie Speight was born on the 2nd of November in 1910 [^15]. Winifred married Glynne Mansell Lloyd on the 10th of April in 1935 [^16], and together they had three sons. Winifred died in 2004 [^17].
 
@@ -85,6 +85,29 @@ Later that year, Jessie was mentioned in the papers with regard to a donation to
 
 {{< figure library="true" src="JessieSpeightPortraitDonation.jpg" title="Jessie Donates a Portrait of her Father Thomas to the Otago Early Settlers' Association - 1930" lightbox="true" >}}
 [^33]: https://paperspast.natlib.govt.nz/newspapers/ESD19300514.2.121 Evening Star, Issue 20483, 14 May 1930, Page 13; https://paperspast.natlib.govt.nz/newspapers/ODT19300514.2.130 Otago Daily Times, Issue 21025, 14 May 1930, Page 14 -  Papers Past, the National Library of New Zealand.
+
+### 1932
+In 1932, Jessie's second-oldest son Allan Francis Speight married Miss Dorothy Frances Napier at St. Augustine's Church in Waimate.[^36]
+
+{{< figure library="true" src="Speight-NapierWedding_1.jpg" title=" Jessie's son Allan gets married - 1933" lightbox="true" >}}
+[^36]:  Jessie's son Allan's marriage report - https://paperspast.natlib.govt.nz/newspapers/CHP19320121.2.5 Press, Volume LXVIII, Issue 20450, 21 January 1932, Page 2; https://paperspast.natlib.govt.nz/newspapers/ODT19320122.2.102.1 Otago Daily Times, Issue 21549, 22 January 1932, Page 13 - Otago Daily Times, Issue 21549, 22 January 1932, Page 13
+
+### 1934
+June 1934 brought with it another family wedding, Jessie's youngest son Colin John Speight married Elinore Dorothy Lee at the Church of St. Michael and All Angels in Anderson's Bay.[^35] 
+{{< figure library="true" src="Speight-LeeWedding_1.jpg" title=" Jessie's son Colin gets married - 1934" lightbox="true" >}}
+[^35]: Jessie's son Colin gets married - https://paperspast.natlib.govt.nz/newspapers/ESD19340613.2.27.2 Evening Star, Issue 21745, 13 June 1934, Page 5; https://paperspast.natlib.govt.nz/newspapers/ODT19340608.2.136 Otago Daily Times, Issue 22283, 8 June 1934, Page 13 - Papers Past, the National Library of New Zealand.
+
+### 1935
+Finally, on the 10th of April in 1935, Jessie's youngest child, and only daughter got married to Glynne Mansell Lloyd at the First Church in Dunedin.[^37]
+{{< figure library="true" src="Lloyd-SpeightWedding_1.jpg" title=" Jessie's Daughter Winifred gets married - 1935" lightbox="true" >}}
+[^37]: Jessie's daughter Winifred gets married - https://paperspast.natlib.govt.nz/newspapers/ESD19350413.2.132.5 Evening Star, Issue 22004, 13 April 1935, Page 23 - Papers Past, the National Library of New Zealand.
+
+### 1942
+During WWII, Jessie's son Norman served in the military as a Colonel. In January 1942, in the War Casualties report in the Evening Star and the Otago Daily Times, Norman was reported as "Missing, Believed Prisoners of War.[^38] Norman was reported as being safely repatriated by April of the same year.[^39]
+{{< figure library="true" src="NormanSpeightPOW.jpg" title="Jessie's Son Norman is taken as a Prisoner of War in WWII" lightbox="true" >}}
+[^38]: Jessie's son Norman reported as Missing - Believed Prisoner of War - Evening Star, Evening Star, Issue 24096, 17 January 1942 https://paperspast.natlib.govt.nz/newspapers/ESD19420117.2.16 ; Otago Daily Times, Otago Daily Times, Issue 24834, 6 February 1942 https://paperspast.natlib.govt.nz/newspapers/ODT19420206.2.71 - Papers Past, the National Library of New Zealand.
+[^39]: Jessie's son Norman repatriated after being a Prisoner of War - Otago Daily Times, Otago Daily Times, Issue 24890, 14 April 1942 https://paperspast.natlib.govt.nz/newspapers/ODT19420414.2.26 - Papers Past, the National Library of New Zealand.
+
 
 ### 1946
 In 1946, Jessie sold an allotment of land in Oban, on Stewart Island to Dugald McAlpine Watson and Doris May Watson for &pound;1570.[^20]

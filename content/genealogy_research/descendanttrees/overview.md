@@ -14,5 +14,4 @@ weight: 1
 
 ## Current Descendant Trees
 
-* [Descendants of James Speight (1864 - 1887)](https://susantyree.com/genealogy_research/descendanttrees/jamesspeight1834descendants/)
-
+* [Descendants of James Speight (1864 - 1887)]({{< ref "/genealogy_research/descendanttrees/jamesspeight1834descendants.md" >}})

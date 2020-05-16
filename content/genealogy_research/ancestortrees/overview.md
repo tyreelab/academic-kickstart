@@ -13,7 +13,7 @@ weight: 1
 ---
 ## Current Family Trees
 
-* [Johnston Family Tree](https://susantyree.com/genealogy_research/ancestortrees/johnston_tree/) - six generations of the Johnston Family.
-* [Speight Family Tree](https://susantyree.com/genealogy_research/ancestortrees/speight_tree/) - six generations of the Speight Family.
-* [Tyree Family Tree](https://susantyree.com/genealogy_research/ancestortrees/tyree_tree/) - six generations of the Tyree Family.
-* [Wilson Family Tree](https://susantyree.com/genealogy_research/ancestortrees/wilson_tree/) - six generations of the Wilson Family.
+* [Johnston Family Tree]({{< ref "/genealogy_research/ancestortrees/johnston_tree.md" >}}) - six generations of the Johnston Family.
+* [Speight Family Tree]({{< ref "/genealogy_research/ancestortrees/speight_tree.md" >}}) - six generations of the Speight Family.
+* [Tyree Family Tree]({{< ref "/genealogy_research/ancestortrees/tyree_tree.md" >}}) - six generations of the Tyree Family.
+* [Wilson Family Tree]({{< ref "/genealogy_research/ancestortrees/wilson_tree.md" >}}) - six generations of the Wilson Family.

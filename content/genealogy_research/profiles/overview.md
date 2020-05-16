@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Overview
+linktitle: Profiles Overview
 menu:
   other:
     parent: Ancestor Profiles
@@ -14,10 +14,22 @@ weight: 1
 
 ## Current Ancestor Profiles
 
-* Under construction - [Katrena Bardsley (1905 - 1968)](https://susantyree.com/genealogy_research/profiles/katrenabardsley1905/)
+* [Katrena Bardsley (1905 - 1968)]({{< ref "/genealogy_research/profiles/katrenabardsley1905.md" >}})
 
-* [Alexander Livingston Wilson (1848 - 1923)](https://susantyree.com/genealogy_research/profiles/alexanderlwilson1848/)
+* [Alexander Livingston Wilson (1848 - 1923)]({{< ref "/genealogy_research/profiles/alexanderlwilson1848.md" >}})
 
-* [Jessie McCulloch Brown (1867 - 1958)](https://susantyree.com/genealogy_research/profiles/jessiespeight1867/)
+* [Jessie McCulloch Brown (1867 - 1958)]({{< ref "/genealogy_research/profiles/jessiespeight1867.md" >}})
 
-* [Matilda Sheppard (1844 - 1916)](https://susantyree.com/genealogy_research/profiles/matildasheppard1844/)
+* [Matilda Sheppard (1844 - 1916)]({{< ref "/genealogy_research/profiles/matildasheppard1844.md" >}})
+
+N.B. Some of these profiles aren't complete yet - I still have to add all of Katrena's acting roles and all the parties her and Hughie went to - but wanted to focus on adding more profiles to start with because there was a lot to get through! :sweat_smile:
+
+Let me know if you have any resources you want to be added to these profiles :heart_eyes: the more - the merrier!
+
+
+
+
+
+
+
+

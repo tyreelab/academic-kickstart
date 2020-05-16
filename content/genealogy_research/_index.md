@@ -21,11 +21,11 @@ weight: 1
 
 This site will eventually hold a range of profile-types including:
 
-* [**{{< hl >}}Ancestor Family Trees{{< /hl >}}**](https://susantyree.com/genealogy_research/ancestortrees/overview/) - oriented to finish on Susan Tyree
-* [**{{< hl >}}Ancestor Profiles{{< /hl >}}**](https://susantyree.com/genealogy_research/profiles/overview/) - detailing the currently available information, historical reference material, and public records
-* [**{{< hl >}}Descendant Family Trees{{< /hl >}}**](https://susantyree.com/genealogy_research/descendanttrees/overview/) - showing all the descendants of key ancestors. To respect privacy I will finish branches at the last deceased family member - and only include complete details for living family members who have given persmission, others will appear as initials with no dates included. If you wish to be added/removed from one of these trees please don't hesitate to contact me.
+* [**{{< hl >}}Ancestor Family Trees{{< /hl >}}**]({{< ref "/genealogy_research/ancestortrees/overview.md" >}}) - oriented to finish on Susan Tyree
+* [**{{< hl >}}Ancestor Profiles{{< /hl >}}**]({{< ref "/genealogy_research/profiles/overview.md" >}}) - detailing the currently available information, historical reference material, and public records
+* [**{{< hl >}}Descendant Family Trees{{< /hl >}}**]({{< ref "/genealogy_research/descendanttrees/overview.md" >}}) - showing all the descendants of key ancestors. To respect privacy I will finish branches at the last deceased family member - and only include complete details for living family members who have given persmission, others will appear as initials with no dates included. If you wish to be added/removed from one of these trees please don't hesitate to contact me.
 * **{{< hl >}}Family Trait Posts{{< /hl >}}** - linking to all family members with similar stories (i.e. military service, teachers, things like that).
-* [**{{< hl >}}Cemetery Maps{{< /hl >}}**](https://susantyree.com/genealogy_research/cemeterymaps/overview/) - We have clusters of ancestors in particular cemeteries around NZ - so I am hoping to map out where our ancestors are now resting.
+* [**{{< hl >}}Cemetery Maps{{< /hl >}}**]({{< ref "/genealogy_research/cemeterymaps/overview.md" >}}) - We have clusters of ancestors in particular cemeteries around NZ - so I am hoping to map out where our ancestors are now resting.
 
 If you have any questions or requests regarding this research please don't hesitate to contact me privately via email or Facebook, or by the Contact form on this site if you don't have my contact details already. Any additional information or resources from relatives - no matter how distant - will be warmly welcomed!
 

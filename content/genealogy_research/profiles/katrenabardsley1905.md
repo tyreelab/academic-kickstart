@@ -21,6 +21,17 @@ Katrena Rosalind Bardsley was born on the 19th of November in 1905 in Timaru, Ca
 [^2]: Katrena's brother Ernest's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1898/18249.
 [^3]: Katrena's sister Winifred's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1900/242.
 
+### 1915-1916
+
+1915-1916 was a rough time for the Bardsleys. In 1915, when Katrena was only around 9 or 10, her uncle Dan (Katrena's father's brother) died at sea on the return journey from fighting in the war after being invalided home.[^35]
+{{< figure library="true" src="DanBardsleyDeath.jpg" title="Katrena's Uncle Dan Died at Sea Returning from War - 1915" lightbox="true" >}}
+[^35]: Katrena's Uncle Dan Died at Sea Returning from War - https://paperspast.natlib.govt.nz/newspapers/WC19150504.2.47.23 ; Wanganui Chronicle, Issue 20345, 4 May 1915, Page 6 ; Papers Past, the National Library of New Zealand
+
+Of course this was hard on the whole family, but it was especially difficult for Katrena's paternal grandmother [Matilda Bardsley (n&eacute;e Sheppard)]({{< ref "/genealogy_research/profiles/matildasheppard1844.md" >}}) who fell into a depression. Sadly, approximately 15 months after her Uncle Dan's death, Katrena's Grandmother Matilda committed suicide whilst in a depressed state of mind.[^36]
+
+{{< figure library="true" src="MatildaSheppardDeathReport.jpg" title="Katrena's Grandmother Matilda Dies - 1916" lightbox="true" >}}
+[^36]: Katrena's Grandmother Matilda Dies - 1916 - https://paperspast.natlib.govt.nz/newspapers/ESD19160905.2.43 ; Evening Star, Issue 16211, 5 September 1916, Page 4 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/AS19160906.2.81 ; Auckland Star, Volume XLVII, Issue 213, 6 September 1916, Page 8 ; Papers Past, the National Library of New Zealand.
+
 ### 1924
 
 In 1924, when Katrena was approximately 19 years old, she was mentioned in the newspaper for serving as a bridesmaid for her friend Lucy Evelyn Clay, Katrena's mother Lucy also attended the wedding:[^22]
@@ -54,9 +65,13 @@ In March of 1927, Katrena's engagement to Hugh Thomas Speight was announced! [^2
 
 ### 1928
 
-Sadly, less than a year later, Hughie's father Charles Speight passed away unexpectedly on the 19th of February, 1928. This plunged the family into mourning, and pushed Hughie into taking on a more senior role at Speight's Brewery, which his father had run.[^27] The combination of these things seems to have resulted in a very long engagement for Katrena and Hughie.
+In February of 1928, Katrena and Hughie visited Queenstown with Hugh's parents Jessie and Charles, and Hughie's sister Winifred.[^27]
+{{< figure library="true" src="QueenstownSpeightHoliday1928_2.jpg" title="Katrena & Hughie Visit Queenstown with the Speight Family - Otago Daily Times" lightbox="true" >}}
+[^27]: Katrena visits Queenstown with the Speights - https://paperspast.natlib.govt.nz/newspapers/ODT19280217.2.119.1 Otago Daily Times, Issue 20335, 17 February 1928, Page 12 - Papers Past, the National Library of New Zealand.
+
+Sadly, the next week Hughie's father Charles Speight passed away unexpectedly on the 19th of February, 1928. This plunged the family into mourning, and pushed Hughie into taking on a more senior role at Speight's Brewery, which his father had run.[^27] The combination of these things seems to have resulted in a very long engagement for Katrena and Hughie.
 {{< figure library="true" src="CharlesSpeightDeathReport.jpg" title="Hughie's Father Passes Away Unexpectedly" lightbox="true" >}}
-[^27]:
+[^27]: Charles Speight's death reported - https://paperspast.natlib.govt.nz/newspapers/ODT19280220.2.75 Otago Daily Times, Issue 20337, 20 February 1928, Page 9 - Papers Past, the National Library of New Zealand.
 
 ### 1930
 
@@ -91,7 +106,7 @@ The ceremony was held at the Hanover St Baptist Church, and afterwards a wedding
 
 ### 1931
 
-In July of 1931, Hughie and Treena attended a concert of the famous American/Ukranian pianist Mischa Levitzki at the Concert Chamber of the Town Hall.[^32] Mischa Levitzki was one of the first major pianists to tour New Zealand.[^33]
+In July of 1931, Hughie and Treena attended a concert of the famous American/Ukranian pianist Mischa Levitzki at the Concert Chamber of the Town Hall.[^32] Mischa Levitzki was one of the first major pianists to tour New Zealand [^33], I've linked a YouTube video below of a recording of his playing.
 [^32]: Mischa Levitzki Concert attendance - https://paperspast.natlib.govt.nz/newspapers/ODT19310710.2.110 ; Otago Daily Times, Issue 21383, 10 July 1931, Page 14 ; Papers Past, the National Library of New Zealand
 [^33]: More info on Mischa Levitzki - https://www.naxos.com/person/Mischa_Levitzki_2741/2741.htm ; https://en.wikipedia.org/wiki/Mischa_Levitzki
 

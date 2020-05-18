@@ -122,6 +122,15 @@ In 1946, Jessie sold an allotment of land in Oban, on Stewart Island to Dugald M
 ## Death
 Jessie McCulloch Speight died 33 years later on the 7th of May 1958 at the age of 90 [^19].
 
+## Will
+I've included the first four pages of Jessie's Will below, she left her jewellery, clothes, and trinkets to her daughter, along with a parcel of land in Dunedin. The rest of her belongings were split equally between her children, and she left each of her grandchildren &pound;1000, and other extended family members (siblings, nieces/nephews) &pound;300, her chauffer Robert CHarlton &pound;100, and her great-grandchildren &pound;100. She also left sums of money to a range of charities.[^41]
+{{< figure library="true" src="JessieMSpeightWill1.jpg" title="Jessie's Will Page 1" lightbox="true" >}}
+{{< figure library="true" src="JessieMSpeightWill2.jpg" title="Jessie's Will Page 2" lightbox="true" >}}
+{{< figure library="true" src="JessieMSpeightWill3.jpg" title="Jessie's Will Page 3" lightbox="true" >}}
+{{< figure library="true" src="JessieMSpeightWill4.jpg" title="Jessie's Will Page 4" lightbox="true" >}}
+
+[^41]: Jessie's Will - "New Zealand, Archives New Zealand, Probate Records, 1843-1998," database with images, FamilySearch (https://familysearch.org/ark:/61903/3:1:3Q9M-CSMM-VSNL-W?cc=1865481&wc=4B25-XS5%3A1291146802%2C1588877605 : 21 February 2019), Dunedin Court > Probate records 1958 P411/58-P550/58 > image 347 of 1451; Archives New Zealand, Auckland Regional Office.
+
 ## References
 
 [^1]: Jessie's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1958/23874.

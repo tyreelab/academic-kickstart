@@ -123,7 +123,7 @@ In 1946, Jessie sold an allotment of land in Oban, on Stewart Island to Dugald M
 Jessie McCulloch Speight died 33 years later on the 7th of May 1958 at the age of 90 [^19].
 
 ## Will
-I've included the first four pages of Jessie's Will below, she left her jewellery, clothes, and trinkets to her daughter, along with a parcel of land in Dunedin. The rest of her belongings were split equally between her children, and she left each of her grandchildren &pound;1000, and other extended family members (siblings, nieces/nephews) &pound;300, her chauffer Robert CHarlton &pound;100, and her great-grandchildren &pound;100. She also left sums of money to a range of charities.[^41]
+I've included the first four pages of Jessie's Will below (you can click on them to make them bigger), she left her jewellery, clothes, and trinkets to her daughter, along with a parcel of land in Dunedin. The rest of her belongings were split equally between her children, and she left each of her grandchildren &pound;1000, and other extended family members (siblings, nieces/nephews) &pound;300, her chauffer Robert CHarlton &pound;100, and her great-grandchildren &pound;100. She also left sums of money to a range of charities.[^41]
 {{< figure library="true" src="JessieMSpeightWill1.jpg" title="Jessie's Will Page 1" lightbox="true" >}}
 {{< figure library="true" src="JessieMSpeightWill2.jpg" title="Jessie's Will Page 2" lightbox="true" >}}
 {{< figure library="true" src="JessieMSpeightWill3.jpg" title="Jessie's Will Page 3" lightbox="true" >}}

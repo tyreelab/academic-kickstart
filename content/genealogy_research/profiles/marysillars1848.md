@@ -15,9 +15,9 @@ weight: 2
 <svg Family Tree </svg>
 
 ## Birth & Emigration to New Zealand
-Mary comes from Machrihanish Bay in Scotland, she was born on the 1st of July in 1848 and was registered in Campbeltown, Argyllshire, Scotland to parents Archibald Sillars and Catherine Sillars (née McSporran), she was baptised on the 6th of August, 1848 – also in Campbeltown [Scotland, Births and Baptisms, 1564-1950; FHL Number: 1041005].
+Mary comes from Machrihanish Bay in Scotland, she was born on the 1st of July in 1848 and was registered in Campbeltown, Argyllshire, Scotland to parents Archibald Sillars and Catherine Sillars (née McSporran), she was baptised on the 6th of August, 1848, also in Campbeltown [Scotland, Births and Baptisms, 1564-1950; FHL Number: 1041005].
 
-Mary emigrated to New Zealand at the age of ~18 – I haven’t found her ship yet, but there is some evidence for her passage on the Schleswig Bride ship arriving in Port Chalmers on the 8th of October 1868 (which would be ~age 20):
+Mary emigrated to New Zealand at the age of ~18, I haven't found her ship yet, but there is some evidence for her passage on the Schleswig Bride ship arriving in Port Chalmers on the 8th of October 1868 (which would be ~age 20):
 
 ## Marriage & Children
 Mary married Alexander Livingston Wilson at the home of Mrs. Archibald Sillars on Green Island on the 13th of January, 1873 the witnesses were James Shannon, a fellmonger from Kaikorai, and Barbara Sillars from Green Island.The wedding was officiated by a Michael Watz.[^1]
@@ -34,10 +34,10 @@ Together, Alexander and Mary had five children:
 On the 10th of June, in 1902 the Southland times reported a probate granting the will of the farmer Neil McSporran, of Oteramika to Mary Sillars Wilson: 
 
 
-It might be interesting to look into Neil McSporran’s parents to see how they are linked (obvs through Mary’s Mother’s side, but more specifically). His Death record is: [BDM Historical Death Records Registration #: 1902/3938]. I’m pretty sure it’s her uncle or cousin or maybe Great Uncle?
+It might be interesting to look into Neil McSporran's parents to see how they are linked (obvs through Mary's Mother's side, but more specifically). His Death record is: [BDM Historical Death Records Registration #: 1902/3938]. I'm pretty sure it's her uncle or cousin or maybe Great Uncle?
 Here is his Will:
 
-Eight years later, Mary became involved in a Supreme Court case disputing the probate of Neil McSporran. His Will appointed Mary to be the executor of a trust, which allowed his two spinster sisters Susan (~1835–1913 [BDM Historical Death Records Registration #: 1913/191]) and Barbara (~1836-1909 [BDM Historical Death Records Registration #: 1090/6027]) McSporran to remain living at his farm for the remainder of their lives – or for them to live elsewhere and rental income from the farm to be split between them, but for the farm to eventually belong to Mary upon their deaths. The Southland Times reported that Susan McSporran (Barbara had died the year previous) called for two actions – the first, to set aside the will of Neil McSporran, on the grounds that Neil was of unsound mind, and that Mary held undue influence over him, and secondly that the land was not his to bequeath, as he held them in a trust for Susan and Barbara. Ultimately it was decided that there was not sufficient evidence for either of these actions, the judgements were reported in the Southland Times:
+Eight years later, Mary became involved in a Supreme Court case disputing the probate of Neil McSporran. His Will appointed Mary to be the executor of a trust, which allowed his two spinster sisters Susan (~1835-1913 [BDM Historical Death Records Registration #: 1913/191]) and Barbara (~1836-1909 [BDM Historical Death Records Registration #: 1090/6027]) McSporran to remain living at his farm for the remainder of their lives, or for them to live elsewhere and rental income from the farm to be split between them, but for the farm to eventually belong to Mary upon their deaths. The Southland Times reported that Susan McSporran (Barbara had died the year previous) called for two actions, the first, to set aside the will of Neil McSporran, on the grounds that Neil was of unsound mind, and that Mary held undue influence over him, and secondly that the land was not his to bequeath, as he held them in a trust for Susan and Barbara. Ultimately it was decided that there was not sufficient evidence for either of these actions, the judgements were reported in the Southland Times:
 
 
 ## Death

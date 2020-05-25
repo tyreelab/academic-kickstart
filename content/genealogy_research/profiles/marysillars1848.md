@@ -17,7 +17,7 @@ weight: 2
 Mary comes from Machrihanish Bay in Scotland, she was born on the 1st of July in 1848 and was registered in Campbeltown, Argyllshire, Scotland to parents Archibald Sillars and Catherine Sillars (née McSporran), she was baptised on the 6th of August, 1848, also in Campbeltown.[^1]
 [^1]:Mary's baptism record - Scotland, Births and Baptisms, 1564-1950; FHL Number: 1041005
 
-Mary emigrated to New Zealand at the age of ~18, I haven't found her ship yet, but there is some evidence for her passage on the Schleswig Bride ship arriving in Port Chalmers on the 8th of October 1868 [^2] (which would be ~age 20):
+Mary emigrated to New Zealand at the age of ~18, I haven't found her ship yet, but there is some evidence for her passage on the Schleswig Bride ship arriving in Port Chalmers on the 8th of October 1868 [^2] (which would be ~age 20). It's worth noting that the other Sillars passengers include a Barbara and Archibald Sillars, who were present at Mary's wedding in New Zealand [^3] - I don't think this Archibald was her father, but they were very likely relatives of some sort.
 {{< figure library="true" src="sillarsschleswigbride.jpg" title="Sillars' on the Schleswig Bride - 1868" lightbox="true" >}}
 
 [^2]: Mary Sillars on the Schleswig Bride -  http://sites.rootsweb.com/~nzbound/debtors69.htm ; Page 22. List of Immigrants Debtors to the Provincial Government of Otago for Passage Moneys: Assisted Immigration Passage Money Account : Corrected from Treasury Books, 4th Aug., 1869, Inclusive; Otago (N.Z. : Provincial District). Provincial Council. Immigration Department; Immigration Department, 1869.
@@ -33,13 +33,16 @@ Together, Mary and Alexander had five children:
 [^4]: The birth record for Mary's daughter Catherine can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1873/42770.
 [^5]: The death record for Mary's daughter Catherine can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1956/31202.
 
-* Alexander Livingston Wilson, born in 1872.[^6] In 1917, Alexander married Marion Elizabeth Taylor,[^7] and together they had two daughters: Mary Eveline Wilson, born in 1918 [^8] and Annie Elizabeth Wilson, born in 1920.[^9] Alexander sadly committed suicide on the 2nd of April 1923 at the age of 47[^10], and is buried in block 14/108 of the Eastern Cemetery in Invercargill.
+* Alexander Livingston Wilson, born in 1872.[^6] In 1917, Alexander married Marion Elizabeth Taylor,[^7] and together they had two daughters: Mary Eveline Wilson, born in 1918 [^8] and Annie Elizabeth Wilson, born in 1920.[^9] Alexander sadly committed suicide on the 2nd of April 1923 at the age of 47[^10]
+[^29], and is buried in block 14/108 of the Eastern Cemetery in Invercargill.
 {{< figure library="true" src="alexwilsonjnrsuicide.jpg" title="Alexander Livingston Wilson Commits Suicide - 1923" lightbox="true" >}}
 [^6]: The birth record for Mary's son Alexander can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1872/35441.
 [^7]: The marriage record for Mary's son Alexander can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1917/6509.
 [^8]: The birth record for Mary's granddaughter Mary can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1918/27388.
 [^9]: The birth record for Mary's granddaughter Annie can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1920/11282.
 [^10]: The death record for Mary's son Alexander can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1923/1051.
+[^29]: Mary's son Alexander's suicide reported in the newspapers - https://paperspast.natlib.govt.nz/newspapers/CHP19230403.2.63 Press, Volume LIX, Issue 17728, 3 April 1923, Page 7; https://paperspast.natlib.govt.nz/newspapers/ESD19230402.2.42 Evening Star, Issue 18239, 2 April 1923, Page 6; https://paperspast.natlib.govt.nz/newspapers/AG19230402.2.60 ; Ashburton Guardian, Volume XLIII, Issue 9836, 2 April 1923, Page 8;  https://paperspast.natlib.govt.nz/newspapers/STEP19230403.2.4 ; Stratford Evening Post, Volume XXXVIII, Issue 80, 3 April 1923, Page 2; https://paperspast.natlib.govt.nz/newspapers/PBH19230403.2.102 Poverty Bay Herald, Volume XLIX, Issue 16091, 3 April 1923, Page 9; https://paperspast.natlib.govt.nz/newspapers/ODT19230403.2.51 Otago Daily Times, Issue 18827, 3 April 1923, Page 7; https://paperspast.natlib.govt.nz/newspapers/GIST19230403.2.26 Gisborne Times, Volume LVIII, Issue 9658, 3 April 1923, Page 5; https://paperspast.natlib.govt.nz/newspapers/THD19230403.2.48 Timaru Herald, Volume XCVIII, Issue 18077, 3 April 1923, Page 7; https://paperspast.natlib.govt.nz/newspapers/MS19230402.2.28 Manawatu Standard, Volume XLIV, Issue 670, 2 April 1923, Page 5; https://paperspast.natlib.govt.nz/newspapers/EP19230402.2.98 Evening Post, Volume CV, Issue 78, 2 April 1923, Page 8; https://paperspast.natlib.govt.nz/newspapers/NZH19230403.2.33 New Zealand Herald, Volume LX, Issue 18364, 3 April 1923, Page 4; https://paperspast.natlib.govt.nz/newspapers/AS19230402.2.12 Auckland Star, Volume LIV, Issue 78, 2 April 1923, Page 3; https://paperspast.natlib.govt.nz/newspapers/WDT19230403.2.26 Wairarapa Daily Times, Volume 49, Issue 14890, 3 April 1923, Page 5; https://paperspast.natlib.govt.nz/newspapers/HNS19230403.2.70.4 Hawera & Normanby Star, Volume XLII, Issue XLII, 3 April 1923, Page 8 -  Papers Past, the National Library of New Zealand.
+
 
 * Archibald Sillars Wilson, born on the 12th of December, 1875.[^11] In 1902, Archibald married Jeannie Ward Howie.[^12] Sadly, Jeannie passed away a year later giving birth to the couple's son, also named Archibald Sillars Wilson, born on the 16th of April, in 1903.[^13] Archibald died in May 1904 and is buried in Block 14/119 of the Eastern Cemetery in Invercargill, alongside his parents and sisters Catherine and Mary, and his wife Jeanie Ward Wilson. After Mary's son Archibald's death, Mary adopted his orphaned son and raised him.
 [^11]: The birth record for Mary's son Archibald can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1876/23874.
@@ -75,19 +78,21 @@ Here is his Will:[^26]
 Eight years later, Mary became involved in a Supreme Court case disputing the probate of Neil McSporran. His Will appointed Mary to be the executor of a trust, which allowed his two spinster sisters Susan (~1835-1913) and Barbara (~1836-1909) McSporran to remain living at his farm for the remainder of their lives, or for them to live elsewhere and rental income from the farm to be split between them, but for the farm to eventually belong to Mary upon their deaths. The Southland Times reported that Susan McSporran (Barbara had died the year previous) called for two actions, the first, to set aside the will of Neil McSporran, on the grounds that Neil was of unsound mind, and that Mary held undue influence over him, and secondly that the land was not his to bequeath, as he held them in a trust for Susan and Barbara. Ultimately it was decided that there was not sufficient evidence for either of these actions, the judgements were reported in the Southland Times:[^27]
 
 [^27]: Newspaper reports about the court case - 
-https://paperspast.natlib.govt.nz/newspapers/ST19100607.2.4 ; Southland Times, Issue 14437, 7 June 1910, Page 2 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/ST19100609.2.4 ; Southland Times, Issue 14439, 9 June 1910, Page 2 ; Papers Past, the National Library of New Zealand. https://paperspast.natlib.govt.nz/newspapers/SOCR19100611.2.20 ; Southern Cross, Volume 18, Issue 8, 11 June 1910, Page 8 ; Papers Past, the National Library of New Zealand.
+https://paperspast.natlib.govt.nz/newspapers/ST19100607.2.4 ; Southland Times, Issue 14437, 7 June 1910, Page 2; https://paperspast.natlib.govt.nz/newspapers/ST19100609.2.4 ; Southland Times, Issue 14439, 9 June 1910, Page 2; https://paperspast.natlib.govt.nz/newspapers/SOCR19100611.2.20 ; Southern Cross, Volume 18, Issue 8, 11 June 1910, Page 8 -Papers Past, the National Library of New Zealand.
 
-{{< figure library="true" src="Image.jpg" title="Neil McSporran's Sister Sues Mary with Respect to his Will" lightbox="true" >}}
+{{< figure library="true" src="mcsporranvsmarywilson.jpg" title="Neil McSporran's Sister Sues Mary with Respect to his Will" lightbox="true" >}}
+{{< figure library="true" src="mcsporranvsmarywilsoncourt.jpg" title="McSporran vs Wilson Court Case" lightbox="true" >}}
+{{< figure library="true" src="mcsporranvsmarywilsonverdict.jpg" title="McSporran vs Wilson Verdict" lightbox="true" >}}
 
 ## 1914
 
-In January, 1914, the Otago Witness and the Southland Times reported the approval of an application for land by Mary Sillars Wilson:[^28]
+In January, 1914, the Otago Witness and the Southland Times reported the approval of an application for land by Mary Sillars Wilson.[^28] This would have been approximately 1 year following the death of Neil McSporran's sister Susan, so it's possible that Mary bought this farm with the proceeds from finally selling Neil McSporran's farm after the death of his sister. 
 
-[^28]: Mary's application for land is approved -  https://paperspast.natlib.govt.nz/newspapers/OW19140128.2.50.24 ; Otago Witness, Issue 3123, 28 January 1914, Page 21 ; Papers Past, the National Library of New Zealand
+[^28]: Mary's application for land is approved -  https://paperspast.natlib.govt.nz/newspapers/OW19140128.2.50.24 Otago Witness, Issue 3123, 28 January 1914, Page 21; https://paperspast.natlib.govt.nz/newspapers/ST19140123.2.9 Southland Times, Issue 17558, 23 January 1914, Page 2 - Papers Past, the National Library of New Zealand
 
-{{< figure library="true" src="Image.jpg" title="Mary Applies for a Plot of Land - 1914" lightbox="true" >}}
+{{< figure library="true" src="MarySillarsLandApp.jpg" title="Mary Applies for a Plot of Land - 1914" lightbox="true" >}}
 
-Around the time of Mary's eldest son's suicide, her husband Alexander was "compelled by ill health to give up active work", and six months later, on the 9th of October, 1923,[^22] Alexander passed away at his home in Makarewa. Alexander's death certificate reports his cause of death to be carcinoma of the rectum and cachexia - which refers to “weakness and wasting of the body due to severe chronic illness”.
+Around the time of Mary's eldest son's suicide (April 1923), her husband Alexander was "compelled by ill health to give up active work", and six months later, on the 9th of October, 1923,[^22] Alexander passed away at his home in Makarewa. Alexander's death certificate reports his cause of death to be carcinoma of the rectum and cachexia - which refers to "weakness and wasting of the body due to severe chronic illness".
 [^22]: Mary's husband Alexander's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1923/11645.
 
 ## Death
@@ -96,7 +101,10 @@ Mary passed away on the 8th of March in 1937 in Makarewa, Southland, New Zealand
 [^23]: Mary's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1937/22339.
 
 ## Will
-In Mary's Will, she leaves her section in Makarewa to her adopted son (her grandson - son of Archibald & Jeannie Wilson) Archibald Sillars Wilson.[^24]
+In Mary's Will, she leaves her section in Makarewa to her adopted son (her grandson - son of Archibald & Jeannie Wilson) Archibald Sillars Wilson.[^24] For your poor eyes I have typed the hand written section and relevant typed section here:
+
+"I GIVE DEVISE AND BEQUEATH my Section at Cooper's Corner Makarewa aforesaid to my adopted son ARCHIBALD SILLARS WILSON absolutely and in the event of his predeceasing me then I GIVE DEVISE AND BEQUEATH the same to the lawful issue of the said Archibald  Sillars Wilson in equal shares share and share alike and in the default(?) of lawful issue of the said Archibald Sillars Wilson I give devise and bequeath the same to Jeannie Sillars McCullan and her children Jean, Mary, and Nancy(?)in equal shares AND as to the whole of my personal property and the residue of my real property I GIVE DEVISE AND BEQUEATH the same to my daughter Catherine McSporran Wilson absolutely.". I'm not sure who this Jeannie Sillars MCullan is, possibly a sister or cousin (via the Barbara & Archibald Sillars' with whom she stayed before marriage?). 
+
 {{< figure library="true" src="marywilsonwill.jpg" title="Mary's Will" lightbox="true" >}}
 [^24]: Mary's Will - "New Zealand, Archives New Zealand, Probate Records, 1843-1998," database with images, FamilySearch (https://familysearch.org/ark:/61903/3:1:3Q9M-CSZC-P2Z6?cc=1865481&wc=4B25-FV1%3A1589633471%2C1590063119 : 21 February 2019), Invercargill Court > Probate records 1933 P141/33-P211/33 > images 378-388 of 1140; Archives New Zealand, Auckland Regional Office. Record 164 of 1922.
 

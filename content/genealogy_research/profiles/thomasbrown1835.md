@@ -15,7 +15,7 @@ weight: 2
 
 ## Protrait
 
-Thanks to Thomas' eldest daughter [Jessie McCulloch Brown]({{< ref "/genealogy_research/profiles/jessiespeight1867.md" >}}) we have a portrait of him! Jessie donated a framed portrait of her father to the Otago Early Settlers' Association of Otago.[^33] Thanks to the Toitu Otago Settler's Museum, I have found these portraits and have been granted permission to use these images on this profile (note: Permission of Toitu Otago Settlers Museum must be obtained before any re-use of these images):
+Thanks to Thomas' eldest daughter [Jessie McCulloch Brown]({{< ref "/genealogy_research/profiles/jessiespeight1867.md" >}}) we have a portrait of him! Jessie donated two framed portraits of her father to the Otago Early Settlers' Association of Otago.[^33] Thanks to the Toitu Otago Settler's Museum, I have found these portraits and have been granted permission to use these images on this profile (note: Permission of Toitu Otago Settlers Museum must be obtained before any re-use of these images):
 
 {{< figure library="true" src="ThomasBrownPortrait1.jpg" title="Thomas Brown - Portrait in the Collection of Toitu Otago Settlers Museum" lightbox="true" >}}
 {{< figure library="true" src="ThomasBrownPortrait2.jpg" title="Thomas Brown - Portrait in the Collection of Toitu Otago Settlers Museum" lightbox="true" >}}

@@ -4,7 +4,7 @@ draft: false
 linktitle: James Speight 1834-1887
 menu:
   other:
-    parent: Descentant Family Trees
+    parent: Descendant Family Trees
     weight: 2
 title: James Speight's Descendants
 toc: true

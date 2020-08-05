@@ -17,6 +17,8 @@ weight: 1
 
 * [Mary Sillars (1848 - 1937)]({{< ref "/genealogy_research/profiles/marysillars1848.md" >}})
 
+* [Thomas Brown (1848 - 1937)]({{< ref "/genealogy_research/profiles/thomasbrown1835.md" >}})
+
 
 ## Current Ancestor Profiles
 I'm going to group these based on which grandparent's family they belong to, and within those groupings they will be alphabetical by last name (maiden name), then first name, then middle name, and if there are multiple family members with the same name they will then be ordered chronologically.
@@ -30,6 +32,8 @@ I'm going to group these based on which grandparent's family they belong to, and
 * [Katrena Bardsley (1905 - 1968)]({{< ref "/genealogy_research/profiles/katrenabardsley1905.md" >}})
 
 * [Jessie McCulloch Brown (1867 - 1958)]({{< ref "/genealogy_research/profiles/jessiespeight1867.md" >}})
+
+* [Thomas Brown (1848 - 1937)]({{< ref "/genealogy_research/profiles/thomasbrown1835.md" >}})
 
 * [Matilda Sheppard (1844 - 1916)]({{< ref "/genealogy_research/profiles/matildasheppard1844.md" >}})
 

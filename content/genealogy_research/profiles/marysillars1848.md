@@ -23,7 +23,7 @@ Mary emigrated to New Zealand at the age of ~18, I haven't found her ship yet, b
 [^2]: Mary Sillars on the Schleswig Bride -  http://sites.rootsweb.com/~nzbound/debtors69.htm ; Page 22. List of Immigrants Debtors to the Provincial Government of Otago for Passage Moneys: Assisted Immigration Passage Money Account : Corrected from Treasury Books, 4th Aug., 1869, Inclusive; Otago (N.Z. : Provincial District). Provincial Council. Immigration Department; Immigration Department, 1869.
 
 ## Marriage & Children
-Mary married Alexander Livingston Wilson at the home of Mrs. Archibald Sillars on Green Island on the 13th of January, 1873 the witnesses were James Shannon, a fellmonger from Kaikorai, and Barbara Sillars from Green Island.The wedding was officiated by a Michael Watz.[^3]
+Mary married Alexander Livingston Wilson at the home of Mrs. Archibald Sillars on Green Island on the 13th of January, 1873 the witnesses were James Shannon, a fellmonger from Kaikorai, and Barbara Sillars from Green Island. The wedding was officiated by a Michael Watz.[^3]
 
 {{< figure library="true" src="WilsonSellarsMarriageCert1873.jpg" title="Marriage Certificate - Alexander Livingston Wilson & Mary Sillars" lightbox="true" >}}
 [^3]: Mary's marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1873/6181.

@@ -37,7 +37,7 @@ At the age of ~26, Thomas came to New Zealand with Walter Brown (relationship cu
 There also exists a [transcription of diary entries](https://immigrantships.net/pdf/MargaretDickDiary.pdf) written by one of Thomas' fellow passengers if you care to get a feeling of how the journey must have been for everyone on board.[^27] While the weather was fair, [32 of the passengers did not survive the journey](https://immigrantships.net/1800/ladyegidia18610128.html) (30 of the lost souls being children).[^28]
 
 [^27]: Diary entries by Lady Margaret Dick, a passenger onboard the Lady Egidia - https://immigrantships.net/pdf/MargaretDickDiary.pdf
-[^28]: A record of passengers aboard the Lady Egidia - Death records at the bottome of the page - https://immigrantships.net/1800/ladyegidia18610128.html
+[^28]: A record of passengers aboard the Lady Egidia - Death records at the bottom of the page - https://immigrantships.net/1800/ladyegidia18610128.html
 
 [^1]: Thomas Brown came to NZ on the ship Lady Egidia - https://paperspast.natlib.govt.nz/newspapers/ESD19300514.2.121 ; Evening Star, Issue 20483, 14 May 1930, Page 13 ; Papers Past, the National Library of New Zealand.
 [^2]: Immigrant Ship Lady Egidia Records - https://immigrantships.net/1800/ladyegidia18610128.html

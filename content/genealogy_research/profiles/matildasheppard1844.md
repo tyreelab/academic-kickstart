@@ -19,7 +19,7 @@ Matilda Shepherd was born in June 1844 in [Staleybridge](https://goo.gl/maps/WEP
 ## Marriage 
 Matilda married John Bardsley in 1863 in Stockport, Cheshire, England.[^2]
 
-In 1871, the English census has Matilda and John Bardsley recorded as living at [98 Manchester Road](https://goo.gl/maps/uhCPmcUUyw8KgS4FA) in Denton township in Ashton Under Lyne, Lancashire. Matilda's birthplace is listed as being in Stalybridge, her age in 1871 was 26. Other household members included Matilda's husband John, who was 30 years old, and was listed as beinga Fur Farmer (if I read that correctly), and his birthplace was Stockport, Cheshire, England. Matilda's eldest son William Julian Bardsley, aged 5, born in Stockport, Cheshire, England, also lived with them, and they also had a boarder named Mary Sheppard, aged 18, also born in Stockport, Cheshire, England.[^3]
+In 1871, the English census has Matilda and John Bardsley recorded as living at [98 Manchester Road](https://goo.gl/maps/uhCPmcUUyw8KgS4FA) in Denton township in Ashton Under Lyne, Lancashire. Matilda's birthplace is listed as being in Stalybridge, her age in 1871 was 26. Other household members included Matilda's husband John, who was 30 years old, and was listed as being a Fur Farmer (if I read that correctly), and his birthplace was Stockport, Cheshire, England. Matilda's eldest son William Julian Bardsley, aged 5, born in Stockport, Cheshire, England, also lived with them, and they also had a boarder named Mary Sheppard, aged 18, also born in Stockport, Cheshire, England.[^3]
 
 {{< figure library="true" src="MatildaSheppard1871Census.jpg" title="1871 English Census" lightbox="true" >}}
 
@@ -28,17 +28,19 @@ In 1871, the English census has Matilda and John Bardsley recorded as living at 
 In 1876, Matilda, her husband John, and their son William emigrated to New Zealand, they took the Ship Columbus from London to Otago on the 27th of May.[^4]
 {{< figure library="true" src="MatildaSheppard1876ShipRecord.jpg" title="1876 Ship Columbus Passenger Record" lightbox="true" >}}
 
-The English Shipping news reported two other passengers with the surname Bardsley - a Jane Bardsley and a John Bardsley jnr.[^5] It's not clear if these two are related to Matilda and John, or what the nature of their relationship is, it will be worth looking into, though.
+The English Shipping news reported two other passengers with the surname Bardsley - a Jane Bardsley and a John Bardsley Jnr.[^5] It's not clear if these two are related to Matilda and John, or what the nature of their relationship is, it will be worth looking into, though.
 {{< figure library="true" src="MatildaSheppard1876ShippingNews.jpg" title="English Shipping News - Tuapeka Times, 2nd August, 1876" lightbox="true" >}}
 
 ## Children
 Matilda and John had one son in England before moving to New Zealand:
-* William Julian Bardsley was born in Stockport Cheshire, England, in the Oct-Dec quater of 1865.[^6] William emigrated to New Zealand with his parents in 1876 at the age of 10. In 1897, William married Lucy Jane Jefcoate,[^7] and together they had three children: a son named Ernest Milton Bardsley, born on the 11th of February, 1898;[^8] a daughter named Winifred Jefcoate Bardsley, born on the 13th of February, 1899;[^9] and a daughter named [Katrena Rosalind Bardsley]({{< ref "/genealogy_research/profiles/katrenabardsley1905.md" >}}), born on the 19th of November, 1905.[^10] William passed away on the 25th of May in 1946.[^11]
+* William Julian Bardsley was born in Stockport Cheshire, England, in the Oct-Dec quarter of 1865.[^6] William emigrated to New Zealand with his parents in 1876 at the age of 10. In 1897, William married Lucy Jane Jefcoate,[^7] and together they had three children: a son named Ernest Milton Bardsley, born on the 11th of February, 1898;[^8] a daughter named Winifred Jefcoate Bardsley, born on the 13th of February, 1899;[^9] and a daughter named [Katrena Rosalind Bardsley]({{< ref "/genealogy_research/profiles/katrenabardsley1905.md" >}}), born on the 19th of November, 1905.[^10] William passed away on the 25th of May in 1946.[^11]
 
 After settling in New Zealand, Matilda and John went on to have more children - I'm sure about two of them but still need to confirm one:
-* Potential child - John James Bardsley was born in 1878,[^12] but I will look into that a bit more before adding in any deets.
+* John James Bardsley was born in 1878.[^12] John married Mary Jane Angus around 1920.[^19] John died at age 46 in 1924.[^20]
+[^19]: The marriage record for Matilda's son John can be ordered from BDM Historical Records - marriage registration # 1920/12228. 
+[^20]: The death record for Matilda's son John can be ordered from BDM Historical Records - death registration # 1924/10261.
 * Maude Bardsley was born in 1883.[^13] In 1925, Maude married George Henderson,[^14] unfortunately, Maude's husband George died very young and the two had no children. 
-* Dan Bardsley was born on the 1st of January, 1889.[^16] Tragilcally, on the 29th of April, 1915, Matlida and John's son Dan, who was returning home from the Dardanelles, having been invalided home, died at sea during the voyage home at the age of 26.[^15]
+* Dan Bardsley was born on the 1st of January, 1889.[^16] Tragically, on the 29th of April, 1915, Matilda and John's son Dan, who was returning home from the Dardanelles, having been invalided home, died at sea during the voyage home at the age of 26.[^15]
 
 ## Death
 
@@ -54,9 +56,9 @@ Matilda and her husband John are buried in Dunedin Northern Cemetery in Lot 10-1
 ## References
 
 [^1]: A possible record for Matilda's baptism is on FHL Film Number: 2068217 of the register of England Births and Christenings, 1538-1975. Salt Lake City, Utah: FamilySearch, 2013.
-[^2]: Marriage record - http://www.cheshirebmd.org.uk/marriagesearch.php Stockport Civil Marriage - CHeshire Records, Reference # STR/14/182
+[^2]: Marriage record - http://www.cheshirebmd.org.uk/marriagesearch.php Stockport Civil Marriage - Cheshire Records, Reference # STR/14/182
 [^3]: 1871 England Census Records; Lancashire, Ashton Under Lyne, Denton. Class: RG10; Piece: 4079; Folio: 12; Page: 18; GSU roll: 846355
-[^4]: Emmigration Shipping records - New Zealand, Archives New Zealand, Passenger Lists, 1839-1973," database with images, Otago > 1876 > Invercargill > image 15 of 24; Archives New Zealand, Wellington.
+[^4]: Emigration Shipping records - New Zealand, Archives New Zealand, Passenger Lists, 1839-1973," database with images, Otago > 1876 > Invercargill > image 15 of 24; Archives New Zealand, Wellington.
 [^5]: Newspaper report of Matilda & her family's arrival in New Zealand - https://paperspast.natlib.govt.nz/newspapers/TT18760802.2.30 ; Tuapeka Times, Volume IX, Issue 587, 2 August 1876, Page 4 ; Papers Past, the National Library of New Zealand
 [^6]: Matilda's son William's birth record - England & Wales, Civil Registration Birth Index, 1837-1915, 1865, Oct-Dec, Cheshire, Stockport, Volume 8a, Page 39.
 [^7]: Matilda's son William's marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1897/3418.
@@ -71,3 +73,4 @@ Matilda and her husband John are buried in Dunedin Northern Cemetery in Lot 10-1
 [^15]: The death record for Matilda's son Dan can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1918/39494.
 [^17]: Matilda's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1916/6655.
 [^18]: Cemetery record: New Zealand Society of Genealogists Incorporated; Auckland, New Zealand; New Zealand Cemetery Records. Dunedin Northern Cemetery Burial Register, Vol. 4, Page 858, Registration #: 12258
+

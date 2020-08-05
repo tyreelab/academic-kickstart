@@ -17,7 +17,7 @@ weight: 2
 
 Katrena Rosalind Bardsley was born on the 19th of November in 1905 in Timaru, Canterbury, New Zealand, to her parents William Julian Bardsley and Lucy Jane Bardsley (n&eacute;e Jefcoate).[^1] Katrena was the youngest of three children, she had an older brother, named Ernest Milton Bardsley,[^2] and an older sister, named Winifred Jefcoate Bardsley.[^3]
 
-[^1]: Katrena's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1906/2409. Note that her name is spelled 'Kathrena' in her birth record - but nowhere else in her records, hence why I have defaulted to the spelling 'Katrena' to be consistant with the majority of her records.
+[^1]: Katrena's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1906/2409. Note that her name is spelled 'Kathrena' in her birth record - but nowhere else in her records, hence why I have defaulted to the spelling 'Katrena' to be consistent with the majority of her records.
 [^2]: Katrena's brother Ernest's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1898/18249.
 [^3]: Katrena's sister Winifred's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1900/242.
 
@@ -86,7 +86,7 @@ The Yacht Club, which Hughie was a member of, also wished the couple smooth sail
 {{< figure library="true" src="YachtClubCOngratulations.jpg" title="Well-Wishes from the Yacht Club" lightbox="true" >}}
 
 [^28]:  Jessie Speight throws Katrena an engagement party - https://paperspast.natlib.govt.nz/newspapers/ESD19300219.2.29.1 ; Evening Star, Issue 20413, 19 February 1930, Page 6 ; Papers Past, the National Library of New Zealand
-[^29]: St. Leonards Presbyterian CHurch throws a farewell party for Katrena - https://paperspast.natlib.govt.nz/newspapers/ESD19300301.2.154.2 ; Evening Star, Issue 20422, 1 March 1930, Page 22 ; Papers Past, the National Library of New Zealand
+[^29]: St. Leonards Presbyterian Church throws a farewell party for Katrena - https://paperspast.natlib.govt.nz/newspapers/ESD19300301.2.154.2 ; Evening Star, Issue 20422, 1 March 1930, Page 22 ; Papers Past, the National Library of New Zealand
 [^30]: Hughie's sister-in-law throws an engagement celebration for Katrena - https://paperspast.natlib.govt.nz/newspapers/ODT19300307.2.143.1 ; Otago Daily Times, Issue 20969, 7 March 1930, Page 16 ; Papers Past, the National Library of New Zealand
 [^31]: Yacht Club's Wedding Well-Wishes - https://paperspast.natlib.govt.nz/newspapers/ESD19300307.2.122.4 ; Evening Star, Issue 20427, 7 March 1930, Page 15 ; Papers Past, the National Library of New Zealand
 
@@ -106,7 +106,7 @@ The ceremony was held at the Hanover St Baptist Church, and afterwards a wedding
 
 ### 1931
 
-In July of 1931, Hughie and Treena attended a concert of the famous American/Ukranian pianist Mischa Levitzki at the Concert Chamber of the Town Hall.[^32] Mischa Levitzki was one of the first major pianists to tour New Zealand [^33], I've linked a YouTube video below of a recording of his playing.
+In July of 1931, Hughie and Treena attended a concert of the famous American/Ukrainian pianist Mischa Levitzki at the Concert Chamber of the Town Hall.[^32] Mischa Levitzki was one of the first major pianists to tour New Zealand [^33], I've linked a YouTube video below of a recording of his playing.
 [^32]: Mischa Levitzki Concert attendance - https://paperspast.natlib.govt.nz/newspapers/ODT19310710.2.110 ; Otago Daily Times, Issue 21383, 10 July 1931, Page 14 ; Papers Past, the National Library of New Zealand
 [^33]: More info on Mischa Levitzki - https://www.naxos.com/person/Mischa_Levitzki_2741/2741.htm ; https://en.wikipedia.org/wiki/Mischa_Levitzki
 
@@ -154,7 +154,7 @@ Hughie joined Katrena in May of 1983 for just shy of 6 weeks, he also saw San Fr
 
 {{< figure library="true" src="KatrenaWelcomeHome.jpg" title="Katrena and Hughie are Welcomed Home" lightbox="true" >}}
 
-After the requisite number of welcome-home parties[^34], Hughie and Katrena gave a couple of public talks about their travels in America.[^17]  [^20]
+After the requisite number of welcome-home parties,[^34] Hughie and Katrena gave a couple of public talks about their travels in America.[^17]  [^20]
 [^21]
 
 {{< figure library="true" src="TravelClubTalk.jpg" title="Travel Club Talk - Evening Star 1938" lightbox="true" >}}

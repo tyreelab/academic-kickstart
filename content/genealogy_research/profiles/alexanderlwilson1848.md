@@ -24,7 +24,7 @@ In his youth, Alexander served in the Maori War - also known as the [Waikato War
 Alexander worked his way through every branch of the wool trade, and in 1870, Alexander took charge of Cargill and Lainseigny's fellmongery at Green Island - where he met his wife - which was later merged into the firm of Murray, Roberts. Alexander carried on at his own works at North East Valley, Dunedin, for several years. Alexander then became the manager of the late Mr John Kingsland's tannery and fellmongery at Waikiwi, in Southland, remaining with this firm for 15 years after which he took up wool-classing and fellmongery works on various sheep stations in the Province. 
 
 ## Marriage & Children
-Alexander married Mary Sillars at the home of Mrs. Archibald Sillars on Green Island on the 13th of January, 1873 the witnesses were James Shannon, a fellmonger from Kaikorai, and Barbara Sillars from Green Island.The wedding was officiated by a Michael Watz.[^1]
+Alexander married Mary Sillars at the home of Mrs. Archibald Sillars on Green Island on the 13th of January, 1873 the witnesses were James Shannon, a fellmonger from Kaikorai, and Barbara Sillars from Green Island. The wedding was officiated by a Michael Watz.[^1]
 {{< figure library="true" src="WilsonSellarsMarriageCert1873.jpg" title="Marriage Certificate - Alexander Livingston Wilson & Mary Sillars" lightbox="true" >}}
 Together, Alexander and Mary had five children:
 * Catherine McSporran Wilson, born on the 11th of December in 1873.[^21] Catherine did not marry, and passed away in October, 1956 at the age of 81,[^4] and is buried in Block 14/119 of the Eastern Cemetery in Invercargill, alongside her parents and sister Mary, sister in-law Jeanie Ward Wilson, and her brother Archibald.
@@ -37,7 +37,7 @@ Together, Alexander and Mary had five children:
 According to Alexander's obituary, he was one of New Zealand's pioneer settlers - "a fine type of the early settler and was well known and highly esteemed throughout Southland". Alexander also took a keen interest in local affairs, and served as a chairman for the Waikiwi and Makarewa school committees for over 20 years.[^2]
 
 ## Death
-Around the time of his eldest son's suicide, Alexander was "compelled by ill health to give up active work", and six months later, on the 9th of October, 1923,[^3] Alexander passed away at his home in Makarewa. His death certificate states that his cause of death was "carcinoma of the rectum" and "cachexia" - which refers to "weakness and wasting of the body due to severe chronic illness".  I found an obituary in some old family records but can't tell which paper it was from (pictured below)[^2].
+Around the time of his eldest son's suicide, Alexander was "compelled by ill health to give up active work", and six months later, on the 9th of October, 1923.[^3] Alexander passed away at his home in Makarewa. His death certificate states that his cause of death was "carcinoma of the rectum" and "cachexia" - which refers to "weakness and wasting of the body due to severe chronic illness". I found an obituary in some old family records but can't tell which paper it was from (pictured below).[^2]
 
 
 {{< figure library="true" src="AlexanderWilson1848Obituary.jpg" title="Alexander L. Wilson - Obituary" lightbox="true" >}}

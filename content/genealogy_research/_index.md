@@ -23,7 +23,7 @@ This site will eventually hold a range of profile-types including:
 
 * [**Ancestor Family Trees**]({{< ref "/genealogy_research/ancestortrees/overview.md" >}}) - oriented to finish on Susan Tyree
 * [**Ancestor Profiles**]({{< ref "/genealogy_research/profiles/overview.md" >}}) - detailing the currently available information, historical reference material, and public records
-* [**Descendant Family Trees**]({{< ref "/genealogy_research/descendanttrees/overview.md" >}}) - showing all the descendants of key ancestors. To respect privacy I will only include complete details for living family members who have given persmission, others will appear as initials with no dates included. If you wish to be added/removed from one of these trees please don't hesitate to contact me.
+* [**Descendant Family Trees**]({{< ref "/genealogy_research/descendanttrees/overview.md" >}}) - showing all the descendants of key ancestors. To respect privacy, I will only include complete details for living family members who have given permission, others will appear as initials with no dates included. If you wish to be added/removed from one of these trees please don't hesitate to contact me.
 * **Family Trait Posts** - linking to all family members with similar stories (i.e. military service, teachers, things like that).
 * [**Cemetery Maps**]({{< ref "/genealogy_research/cemeterymaps/overview.md" >}}) - We have clusters of ancestors in particular cemeteries around NZ - so I am hoping to map out where our ancestors are now resting.
 
@@ -35,4 +35,5 @@ If you have any questions or requests regarding this research please don't hesit
 This is an ongoing project and these profiles and trees will continue to be updated and added to. Any suggestions or additional information will be warmly welcomed, but I may be a little slow going at first.
 
 If you have photographs or resources you think could add to this collection, I would be more than happy to pay for them to be digitised at the nearest available store to you, I'm always looking for photos to help bring our family members to life.
+
 

@@ -59,7 +59,7 @@ Together, Thomas and Janet went on to have nine children (Note that spelling err
 [^12]: Alma Hazel Doreen Jefcoate's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1900/6525.
 [^13]: Thomas Eastern Empire Jefcoate's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1936/15864.
 
-* Charlotte "Lottie" New Zealand Jefcoate, was born on the 29th of June in 1866.[^14] In 1866, Charlotte married William Plummer Johnson,[^15] and together they had four children: Thomas William James Johnson, born in 1856;[^16] Helen Janet Johnson, born in 1887;[^17] May Oliver Johnson, born in 1890;[^18] and Lenard Archibald Johnson, born in 1892.[^19] Sadly, Charlotte passed away in 1913, at the age of 48.[^20]
+* Charlotte "Lottie" New Zealand Jefcoate, was born on the 29th of June in 1866.[^14] In 1884, Charlotte married William Plummer Johnson,[^15] and together they had four children: Thomas William James Johnson, born in 1885;[^16] Helen Janet Johnson, born in 1887;[^17] May Oliver Johnson, born in 1890;[^18] and Lenard Archibald Johnson, born in 1892.[^19] Sadly, Charlotte passed away in 1913, at the age of 48.[^20]
 
 [^14]: Charlotte New Zealand Jefcoate's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1866/9040.
 [^15]: Charlotte New Zealand Jefcoate's marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1884/3672.
@@ -89,7 +89,7 @@ Together, Thomas and Janet went on to have nine children (Note that spelling err
 [^33]: Olive Drake's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1900/12005.
 [^34]: Janet Oliver Jefcoate's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1944/22180.
 
-* Henry John Jefcoate was born in 1871.[^31] In 1896, Henry married Jessie Dalgleish,[^32] and together they had three children: Margaret Myril Jefcoate, born in 1898;[^33] Harold Oliver Jefcoate, born in 1900;[^34] and Jenie Agnes Ruth Jefcoate, born in 1903.[^35] Henry passed away in 1954, at the age of 85.[^36]
+* Henry John Jefcoate was born in 1871.[^31] In 1896, Henry married Jessie Dalgleish Robison,[^32] and together they had three children: Margaret Myril Jefcoate, born in 1898;[^33] Harold Oliver Jefcoate, born in 1900;[^34] and Jenie Agnes Ruth Jefcoate, born in 1903.[^35] Henry passed away in 1954, at the age of 85.[^36]
 
 [^31]: Henry John Jefcoate's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1871/32674.
 [^32]: Henry John Jefcoate's marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1896/1794.
@@ -145,7 +145,7 @@ Together, Thomas and Janet went on to have nine children (Note that spelling err
 
 ## Accident
 
-Successful treatment of weak-sight by Dr. Wilkins.[^68]
+Successful treatment of weak-sight by Dr. Wilkins.[^69]
 
 [^69]: Thomas' weak-sight is successfully treated by New Zealand's only reliable specialist for eye/ear diseases - https://paperspast.natlib.govt.nz/newspapers/THD18801011.2.6 Timaru Herald, Volume XXXIII, Issue 1889, 11 October 1880, Page 2 -  Papers Past, the National Library of New Zealand.
 
@@ -180,14 +180,12 @@ Interred in Timaru Cemetery." Inserted by her husband, Thos. Jefcoate, Owaka, Ot
 ## Death
 
 Thomas passed away on the 1st of October in 1913 in Christchurch Hospital, Canterbury, New Zealand.[^62]  [^63] 
-[^64]
+[^64] 
 
 {{< figure library="true" src="thomasjefcoateObituary.jpg" title="Thomas Jefcoate - Obituary, Timaru Herald, 2 October 1913" lightbox="true" >}}
 
 [^62]: Thomas' death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1913/9150.
-[^63]: Thomas death notice published in the papers - https://paperspast.natlib.govt.nz/newspapers/THD19131004.2.28 Timaru Herald, Volume XCVIII, Issue 15162, 4 October 1913, Page 8
-
- -  Papers Past, the National Library of New Zealand.
+[^63]: Thomas death notice published in the papers - https://paperspast.natlib.govt.nz/newspapers/THD19131004.2.28 Timaru Herald, Volume XCVIII, Issue 15162, 4 October 1913, Page 8 -  Papers Past, the National Library of New Zealand.
 [^64]: Obituaries for Thomas were published in the papers - https://paperspast.natlib.govt.nz/newspapers/AG19131002.2.9.1 Ashburton Guardian, Volume XXXIII, Issue 8678, 2 October 1913, Page 3; https://paperspast.natlib.govt.nz/newspapers/THD19131002.2.55 Timaru Herald, Volume XCVIII, Issue 15160, 2 October 1913, Page 8 -  Papers Past, the National Library of New Zealand.
 
 

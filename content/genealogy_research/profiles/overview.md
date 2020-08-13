@@ -13,9 +13,9 @@ weight: 1
 ---
 ## Recently Added Profiles
 
-* [Jane Donnelly (1860 - 1912)]({{< ref "/genealogy_research/profiles/janedonnelly1860.md" >}})
+* [Thomas Jefcoate (1839 - 1913)]({{< ref "/genealogy_research/profiles/thomasjefcoate1839.md" >}})
 
-* [Mary Sillars (1848 - 1937)]({{< ref "/genealogy_research/profiles/marysillars1848.md" >}})
+* [Jane Donnelly (1860 - 1912)]({{< ref "/genealogy_research/profiles/janedonnelly1860.md" >}})
 
 * [Thomas Brown (1848 - 1937)]({{< ref "/genealogy_research/profiles/thomasbrown1835.md" >}})
 
@@ -34,6 +34,8 @@ I'm going to group these based on which grandparent's family they belong to, and
 * [Jessie McCulloch Brown (1867 - 1958)]({{< ref "/genealogy_research/profiles/jessiespeight1867.md" >}})
 
 * [Thomas Brown (1848 - 1937)]({{< ref "/genealogy_research/profiles/thomasbrown1835.md" >}})
+
+* [Thomas Jefcoate (1839 - 1913)]({{< ref "/genealogy_research/profiles/thomasjefcoate1839.md" >}})
 
 * [Matilda Sheppard (1844 - 1916)]({{< ref "/genealogy_research/profiles/matildasheppard1844.md" >}})
 

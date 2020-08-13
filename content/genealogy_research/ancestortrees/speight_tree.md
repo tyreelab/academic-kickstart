@@ -22,9 +22,11 @@ Family members from this tree with profiles:
 
 * [Jessie McCulloch Brown (1867 - 1958)]({{< ref "/genealogy_research/profiles/jessiespeight1867.md" >}})
 
-* [Matilda Sheppard (1844 - 1916)]({{< ref "/genealogy_research/profiles/matildasheppard1844.md" >}})
-
 * [Thomas Brown (1835 - 1895)]({{< ref "/genealogy_research/profiles/thomasbrown1835.md" >}})
+
+* [Thomas Jefcoate (1839 - 1913)]({{< ref "/genealogy_research/profiles/thomasjefcoate1839.md" >}})
+
+* [Matilda Sheppard (1844 - 1916)]({{< ref "/genealogy_research/profiles/matildasheppard1844.md" >}})
 
 ## Speight Family References
 

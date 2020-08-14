@@ -15,8 +15,9 @@ education:
     year: 2011
 email: "tyree.lab@gmail.com"
 interests:
+- Medical Writing
 - Machine Learning in Medical Research
-- Data Visualization & Science Communication
+- Data Visualisation & Science Communication
 - Data Science & Analytics
 organizations:
 - name: Ireland-based
@@ -42,6 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Susan Tyree is an Ireland-based research scientist, with an interest in data analytics, data science, neuroscience/neuropsychology, and science writing. Susan completed her doctoral research in the Molecular Genetics Laboratory at the German Institute of Human Nutrition in 2017 and subsequently completed three years of postdoctoral training in the Department of Psychiatry and Behavioral Sciences in the Medical School of Stanford University, California.
+Susan Tyree is an Ireland-based research scientist and medical writer, with an interest in data analytics, data science, neuroscience/neuropsychology, and science communication. Susan completed her doctoral research in the Molecular Genetics Laboratory at the German Institute of Human Nutrition in 2017 and subsequently completed three years of postdoctoral training in the Department of Psychiatry and Behavioral Sciences in the Medical School of Stanford University, California.
 
 Susan has spent three years as a project lead on an industry-based research project collaborating with a European pharmaceutical company on pre-clinical research trials related to impulsivity and mapping neurological pathways underlying complex choice behaviours. Susan is now working in Clinical Trial Research in Ireland.

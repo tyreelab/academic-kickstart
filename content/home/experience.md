@@ -18,17 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Freelance Data Scientist & Science Writer"
-  company = ""
+  title = "Medical Writer"
+  company = "Atlantia Food Clinical Trials"
   company_url = ""
-  location = ""
+  location = "Ireland"
   date_start = "2020-03-01"
   date_end = ""
   description = """
-  * Writing science communication pieces
-  * Explore potential uses for AI and Machine Learning techniques in medical datasets
-  * Data mining, data analysis, data visualisation, data presentation
-  * Use machine learning tools and statistical techniques to produce solutions to problems
+  * Developing clinical trial research protocols
+  * Managing ethics applications and submissions for clinical research trials
+  * Managing client relationships
+  * Writing clinical study reports for clinical research trials
   """
   
 [[experience]]

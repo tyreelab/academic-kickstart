@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "book-medical"
   icon_pack = "fas"
-  name = "Medical Research"
+  name = "Clinical Trial Research"
   description = ""
 
 [[feature]]

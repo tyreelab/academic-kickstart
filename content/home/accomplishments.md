@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Pharma School"
+  organization_url = "https://www.PharmaSchool.org/"
+  title = "ICH Good Clinical Practice Certificate"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/10f-eWlKKHpEMTdy87Ci0iZeV8nzl0TRz/view?usp=sharing"
+  date_start = "2020-06-03"
+  date_end = "2020-06-03"
+  description = "Good Clinical Practice (GCP) is an international ethical and scientific quality standard for the design, conduct, performance, monitoring, auditing, recording, analyses and reporting of clinical trials. It also serves to protect the rights, integrity and confidentiality of trial subjects."
+
+[[item]]
   organization = "Stanford Online and Coursera"
   organization_url = "https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-ROW&campaignid=2070742271&adgroupid=80109820241&device=c&keyword=machine%20learning%20mooc&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=369041663186&hide_mobile_promo&gclid=CjwKCAjwwMn1BRAUEiwAZ_jnEsnDiViJf-v2cdF2-caeYKazOHXewvaKs01xThGJUoxDYYMAVzD-XRoCuWYQAvD_BwE"
   title = "Machine Learning Certificate"

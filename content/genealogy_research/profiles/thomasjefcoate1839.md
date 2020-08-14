@@ -18,13 +18,13 @@ weight: 2
 
 ## Birth
 
-Thomas was born on the 21st of August in 1839, in Pottersbury, Northamptonshire, England, to parents Thomas Jefcoate and Hannah Jefcoate (n&eacute;e Warner).[^1]
+Thomas was born on the 21st of August in 1839, in [Potterspury](https://en.wikipedia.org/wiki/Potterspury), Northamptonshire, England, to parents Thomas Jefcoate and Hannah Jefcoate (n&eacute;e Warner).[^1]
 
 [^1]: FreeBMD. England & Wales, Civil Registration Birth Index, 1837-1915 [database on-line], Volume 15, Page 344. Provo, UT, USA: [Ancestry.com Operations Inc, 2006](https://search.ancestry.co.uk/cgi-bin/sse.dll?indiv=1&_phtarg=kag2945&dbid=8912&gsfn=Thomas&gsln=Jefcoate&cp=0&msbdy=1839&msbpn__ftp=england%2c+united+kingdom&msbpn=3251&new=1&rank=1&uidh=ifo&redir=false&msT=1&gss=angs-d&pcat=34&fh=0&h=14526013&recoff=&ml_rpos=1&hovR=1).
 
 ## Marriage
 
-On the 26th of December 1859, Thomas married Janet J. Oliver in Saint Giles, Middlesex, England.[^2] Janet was a native of Langholm, Scotland.[^74]
+On the 26th of December 1859, Thomas married Janet J. Oliver in [St. Giles](https://en.wikipedia.org/wiki/St_Giles,_London), Middlesex, England.[^2] Janet was a native of Langholm, Scotland.[^74]
 
 [^2]: "England and Wales Marriage Registration Index, 1837-2005," database, FamilySearch (https://familysearch.org/ark:/61903/1:1:2DWC-LW3 : 13 December 2014), Thomas Jefcoate, 1859; from "England & Wales Marriages, 1837-2005," database, findmypast (http://www.findmypast.com : 2012); citing 1859, quarter 4, vol. 1B, p. 653, St. Giles, London, England, General Register Office, Southport, England.
 
@@ -70,7 +70,7 @@ Together, Thomas and Janet went on to have nine children (Note that spelling err
 [^19]: Lenard Archibald Johnson's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1892/3170.
 [^20]: Charlotte New Zealand Jefcoate's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1913/6338.
 
-* Helen Jefcoate was born in 1868.[^21] In 1889, Helen married James Archibald Valentine,[^22] and together they had ~6 kids (these need some confirmation): Archibald Graham Valentine, born in 1893;[^23] James Jefcoate Valentine, born in 1895;[^24] Janet Koanui Valentine, born in 1898;[^25] Hilda Mary Florence Valentine, born in 1900;[^26] William Maxwell Valentine, born in 1903;[^27] and Helen Charlotte Valentine, born in 1905. Helen passed away in 1937 at the age of 69.[^29]
+* Helen Jefcoate was born in 1868.[^21] In 1889, Helen married James Archibald Valentine,[^22] and together they had ~6 kids (these need some confirmation): Archibald Graham Valentine, born in 1893;[^23] James Jefcoate Valentine, born in 1895;[^24] Janet Koanui Valentine, born in 1898;[^25] Hilda Mary Florence Valentine, born in 1900;[^26] William Maxwell Valentine, born in 1903;[^27] and Helen Charlotte Valentine, born in 1905.[^28] Helen passed away in 1937 at the age of 69.[^29]
 
 [^21]: Helen Jefcoate's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1868/24995.
 [^22]: Helen Jefcoate's marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1889/3237.
@@ -145,7 +145,7 @@ In the UK Thomas and Janet had been members of the Rugby Baptist Chapel, and whe
 [^77]: Newspaper coverage of the Spreydon Baptist Jubilee discussing the church's history - https://paperspast.natlib.govt.nz/newspapers/CHP19161024.2.8 Press, Volume LII, Issue 15729, 24 October 1916, Page 3; https://paperspast.natlib.govt.nz/newspapers/LT19161028.2.29 Lyttelton Times, Volume CXVII, Issue 17311, 28 October 1916, Page 7 - Papers Past, the National Library of New Zealand.
 [^78]: Spreydon Baptist Church History - https://www.swbc.org.nz/about-us/our-history/our-history/
 
-Later, after moving to Pareora, Thomas continued his enthusiasm for supporting his community. Thomas served on the Pareora School Committee. [^65] Thomas also regularly attended community meetings for householders,[^71] and meetings about the local church.[^72]
+Later, after moving to Pareora, Thomas continued his enthusiasm for supporting his community. Thomas served on the Pareora School Committee. [^65] Thomas also regularly attended community meetings for householders and meetings about the local church.[^71]
 [^65]: Newspaper record of Pareora School Committee meetings - https://paperspast.natlib.govt.nz/newspapers/SCANT18900402.2.7 South Canterbury Times, Issue 6180, 2 April 1890, Page 2; https://paperspast.natlib.govt.nz/newspapers/SCANT18880802.2.6 South Canterbury Times, Issue 4766, 2 August 1888, Page 2; https://paperspast.natlib.govt.nz/newspapers/SCANT18891003.2.7 South Canterbury Times, Issue 6028, 3 October 1889, Page 2; https://paperspast.natlib.govt.nz/newspapers/THD18780903.2.9 Timaru Herald, Volume XXIX, Issue 1234, 3 September 1878, Page 2; https://paperspast.natlib.govt.nz/newspapers/THD18820613.2.10 Timaru Herald, Volume XXXVI, Issue 2410, 13 June 1882, Page 2 -  Papers Past, the National Library of New Zealand.
 [^71]: Newspaper reports about community - https://paperspast.natlib.govt.nz/newspapers/THD18820126.2.27 Timaru Herald, Volume XXXVI, Issue 2293, 26 January 1882, Page 3; https://paperspast.natlib.govt.nz/newspapers/SCANT18820726.2.8 South Canterbury Times, Issue 2912, 26 July 1882, Page 2; https://paperspast.natlib.govt.nz/newspapers/SCANT18850513.2.11 South Canterbury Times, Issue 3774, 13 May 1885, Page 2; https://paperspast.natlib.govt.nz/newspapers/THD18850513.2.14 Timaru Herald, Volume XLI, Issue 3315, 13 May 1885, Page 3; https://paperspast.natlib.govt.nz/newspapers/THD18860717.2.6 Timaru Herald, Volume XLIII, Issue 3679, 17 July 1886, Page 2 -  Papers Past, the National Library of New Zealand.
 
@@ -224,7 +224,7 @@ Thomas passed away on the 1st of October in 1913 in Christchurch Hospital, Cante
 {{< figure library="true" src="thomasjefcoateObituary.jpg" title="Thomas Jefcoate - Obituary, Timaru Herald, 2 October 1913" lightbox="true" >}}
 
 [^62]: Thomas' death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1913/9150.
-[^63]: Thomas death notice published in the papers - https://paperspast.natlib.govt.nz/newspapers/THD19131004.2.28 Timaru Herald, Volume XCVIII, Issue 15162, 4 October 1913, Page 8; https://paperspast.natlib.govt.nz/newspapers/ST19131002.2.20 Southland Times, Issue 17464, 2 October 1913, Page 4; https://paperspast.natlib.govt.nz/newspapers/LT19131002.2.2.3 Lyttelton Times, Volume CXIV, Issue 16360, 2 October 1913, Page 1 -  Papers Past, the National Library of New Zealand.
+[^63]: Thomas' death notice published in the papers - https://paperspast.natlib.govt.nz/newspapers/THD19131004.2.28 Timaru Herald, Volume XCVIII, Issue 15162, 4 October 1913, Page 8; https://paperspast.natlib.govt.nz/newspapers/ST19131002.2.20 Southland Times, Issue 17464, 2 October 1913, Page 4; https://paperspast.natlib.govt.nz/newspapers/LT19131002.2.2.3 Lyttelton Times, Volume CXIV, Issue 16360, 2 October 1913, Page 1 -  Papers Past, the National Library of New Zealand.
 [^64]: Obituaries for Thomas were published in the papers - https://paperspast.natlib.govt.nz/newspapers/AG19131002.2.9.1 Ashburton Guardian, Volume XXXIII, Issue 8678, 2 October 1913, Page 3; https://paperspast.natlib.govt.nz/newspapers/THD19131002.2.55 Timaru Herald, Volume XCVIII, Issue 15160, 2 October 1913, Page 8 -  Papers Past, the National Library of New Zealand.
 
 In Thomas' Will, he requested to be buried alongside his beloved wife Janet, with the following inscription added to the tombstone: "We shall sleep but not forever. There will be a glorious dawn. We shall meet to part no never on the resurrection morn." Thomas asked that his grandsons be given some of his belongings - namely his pocket watches, rings etc., specifying that his gold wedding band (engraved 'Tom') should go to his grandson Thomas Frederick Jefcoate (eldest son of Frederick William Jefcoate).[^79]

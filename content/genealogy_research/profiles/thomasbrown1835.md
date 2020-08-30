@@ -64,12 +64,12 @@ Together, they had six children:
 [^12]: Winifred Jessie Speight's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1910/24537.
 [^13]: Jessie McCulloch Brown's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1958/30298.
 
-* John MacFarlane Brown was born in 1870.[^14] I haven't found any record of a marriage - though John Brown is a reasonably common name, a death certificate might confirm this one way of another. John passed away on the 22nd of September in 1933 at the age of 62.[^15]
+* John MacFarlane Brown was born in 1870.[^14] I haven't found any record of a marriage - though John Brown is a reasonably common name, a death certificate might confirm this one way or another. John passed away on the 22nd of September in 1933 at the age of 62.[^15]
 
 [^14]: John MacFarlane Brown's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1870/32738. 
 [^15]: John MacFarlane Brown's death record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - death registration # 1933/11108. 
 
-* Robert Symington Brown was born in 1871.[^16] In 1898, Robert married Edith Caroline Isabella,[^17] and together they has three children: Reta Isabella Brown, born in 1902;[^18] Edith Mavis Brown, born in 1907;[^19] and Herbert Thomas Brown, born in 1912.[^20] Thomas died in 1965 at the age of 94.[^21]
+* Robert Symington Brown was born in 1871.[^16] In 1898, Robert married Edith Caroline Isabella,[^17] and together they had three children: Reta Isabella Brown, born in 1902;[^18] Edith Mavis Brown, born in 1907;[^19] and Herbert Thomas Brown, born in 1912.[^20] Thomas died in 1965 at the age of 94.[^21]
 
 [^16]: Robert Symington Brown's birth record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - birth registration # 1871/39037.
 [^17]: Robert Symington Brown's marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1898/5064.

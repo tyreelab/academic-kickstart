@@ -44,7 +44,7 @@ There also exists a [transcription of diary entries](https://immigrantships.net/
 
 ## Marriage & Children
 
-Thomas married Isabella MacFarlane in 1864 in New Zealand.[^3]
+Thomas married Isabella MacFarlane (daughter of John McFarlane [1811-1895] and Janet McCulloch McFarlane [1810 - ?]) in 1864 in New Zealand.[^3]
 
 [^3]: Thomas' marriage record can be ordered from [BDM Historical Records](https://www.bdmhistoricalrecords.dia.govt.nz/search) - marriage registration # 1864/1411.
 

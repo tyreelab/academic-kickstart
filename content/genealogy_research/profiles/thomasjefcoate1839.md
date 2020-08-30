@@ -216,8 +216,10 @@ After Janet's death, it seems as though Thomas may have been lacking people to t
 
 ## Death
 
-Thomas passed away on the 1st of October in 1913 in Christchurch Hospital, Canterbury, New Zealand.[^62]  [^63] 
+Thomas passed away on the 1st of October in 1913 in Christchurch Hospital, Canterbury, New Zealand. He had been suffering from cystitis for the previous 3 months, following a prostatectomy, and ultimately succumbed  to toxaemia.[^62]  [^63] 
 [^64] 
+
+{{< figure library="true" src="ThomasJefcoateDeathCert.jpg" title="Thomas Jefcoate - Death Registration" lightbox="true" >}}
 
 {{< figure library="true" src="ThomasJefcoateDeathNotice1913.jpg" title="Thomas Jefcoate - Death Notice, Timaru Herald, 4th October 1913" lightbox="true" >}}
 

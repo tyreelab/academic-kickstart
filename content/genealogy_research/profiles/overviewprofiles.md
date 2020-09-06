@@ -13,6 +13,8 @@ weight: 1
 ---
 ## Recently Added Profiles
 
+* [John Haining Geddes (1839 - 1926)]({{< ref "/genealogy_research/profiles/johnhgeddes1839.md" >}})
+
 * [Thomas Jefcoate (1839 - 1913)]({{< ref "/genealogy_research/profiles/thomasjefcoate1839.md" >}})
 
 * [Jane Donnelly (1860 - 1912)]({{< ref "/genealogy_research/profiles/janedonnelly1860.md" >}})
@@ -44,6 +46,8 @@ I'm going to group these based on which grandparent's family they belong to, and
 * [Jane Donnelly (1860 - 1912)]({{< ref "/genealogy_research/profiles/janedonnelly1860.md" >}})
 
 ### Wilson Family Profiles
+
+* [John Haining Geddes (1839 - 1926)]({{< ref "/genealogy_research/profiles/johnhgeddes1839.md" >}})
 
 * [Mary Sillars (1848 - 1937)]({{< ref "/genealogy_research/profiles/marysillars1848.md" >}})
 

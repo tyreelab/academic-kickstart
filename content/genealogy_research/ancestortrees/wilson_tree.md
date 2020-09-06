@@ -18,6 +18,9 @@ Five generations back through my Grandfather Arch Wilson's line:
 
 ## Wilson Family Profiles
 Family members from this tree with profiles:
-* [Alexander Livingston Wilson (1848 - 1923)]({{< ref "/genealogy_research/profiles/alexanderlwilson1848.md" >}})
+
+* [John Haining Geddes (1839 - 1926)]({{< ref "/genealogy_research/profiles/johnhgeddes1839.md" >}})
 
 * [Mary Sillars (1848 - 1937)]({{< ref "/genealogy_research/profiles/marysillars1848.md" >}})
+
+* [Alexander Livingston Wilson (1848 - 1923)]({{< ref "/genealogy_research/profiles/alexanderlwilson1848.md" >}})

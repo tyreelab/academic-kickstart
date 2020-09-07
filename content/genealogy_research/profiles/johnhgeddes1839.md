@@ -76,7 +76,7 @@ John was also attached to the Loyal St. George Lodge of Oddfellows, Manchester U
 [^13]: Withdrawing candidacy from the Mayoral election, 1884 - https://paperspast.natlib.govt.nz/newspapers/ST18841119.2.22.2 Southland Times, Issue 5089, 19 November 1884, Page 3 - Papers Past, the National Library of New Zealand.
 [^14]: Winning the Mayoral election, 1885 - https://paperspast.natlib.govt.nz/newspapers/ST18851126.2.23.1 Southland Times, Issue 9075, 26 November 1885, Page 3 - Papers Past, the National Library of New Zealand.
 
-John retired in 1907, leaving his business to his two sons, Arthur and Herbert Geddes.[^15] After retirement, John and his wife Martha moved back to Victoria, Australia,[^4] where their daughter Ada now lived with her husband Mavis Germaine Blue.[^16]
+John retired in 1907, leaving his business to his two sons, Arthur and Herbert Geddes.[^15] After retirement, John and his wife Martha moved back to Victoria, Australia,[^4] where their daughter Ada now lived with her husband Daniel Blue.[^16]
 
 {{< figure library="true" src="JohnGeddesRetires.jpg" title="John retires, leaving his business to his sons - Southern Cross, 23 February 1907" lightbox="true" >}}
 
@@ -85,7 +85,7 @@ John retired in 1907, leaving his business to his two sons, Arthur and Herbert G
 
 ## Death
 
-John passed away in 1926 at the age of 73, just five months after the death of his wife, Martha. [^17] John is buried with his wife Martha, daughter Ada Selina Mary Blue, and son-in-law Mavis Germaine Blue at the Coburg Pine Ridge Cemetery in the Presbyterian Area, plot number 904.[^18]
+John passed away in 1926 at the age of 73, just five months after the death of his wife, Martha. [^17] John is buried with his wife Martha, daughter Ada Selina Mary Blue, and son-in-law Daniel Blue at the Coburg Pine Ridge Cemetery in the Presbyterian Area, plot number 904.[^18]
 
 {{< figure library="true" src="GeddesGravestone.jpg" title="John & Martha's Gravestone - Coburg Pine Ridge Cemetery, Coburg, Moreland City, Victoria, Australia" lightbox="true" >}}
 

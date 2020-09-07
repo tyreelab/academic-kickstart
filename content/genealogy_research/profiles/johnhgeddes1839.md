@@ -85,7 +85,7 @@ John retired in 1907, leaving his business to his two sons, Arthur and Herbert G
 
 ## Death
 
-John passed away in 1926 at the age of 73, just five months after the death of his wife, Martha. [^17] John is buried with his wife Martha, daughter Ada Selina Mary Blue, and son-in-law Daniel Blue at the Coburg Pine Ridge Cemetery in the Presbyterian Area, plot number 904.[^18]
+John passed away in 1926 at the age of 73, just five months after the death of his wife, Martha. [^17] John is buried with his wife Martha and daughter Ada Selina Mary Blue at the Coburg Pine Ridge Cemetery in the Presbyterian Area, plot number 904.[^18]
 
 {{< figure library="true" src="GeddesGravestone.jpg" title="John & Martha's Gravestone - Coburg Pine Ridge Cemetery, Coburg, Moreland City, Victoria, Australia" lightbox="true" >}}
 

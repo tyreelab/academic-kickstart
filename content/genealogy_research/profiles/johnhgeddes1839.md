@@ -61,8 +61,6 @@ In August, 1875 John and his family moved to Otago on the ship Omeo, which dropp
 
 John's Merchant Tailor business in Invercargill was established in 1877, and for the first ten years was conducted in Tay Street. They then moved to a "handsome three-storey building" on the corner of Dee Street and Don Street, in which the cutting and fitting rooms were on the ground floor, and the work room was on the second floor. [^2]
 
-{{< figure library="true" src="JohnGeddesRetires.jpg" title="John retires, leaving his business to his sons - Southern Cross, 23 February 1907" lightbox="true" >}}
-
 ## Community Service
 
 John was a member of the East Invercargill Borough Council for several years, in 1884 it seems he was nominated as a candidate for the Mayoral election - however he chose to withdraw his candidacy. [^13] 
@@ -79,6 +77,8 @@ John was also attached to the Loyal St. George Lodge of Oddfellows, Manchester U
 [^14]: Winning the Mayoral election, 1885 - https://paperspast.natlib.govt.nz/newspapers/ST18851126.2.23.1 Southland Times, Issue 9075, 26 November 1885, Page 3 - Papers Past, the National Library of New Zealand.
 
 John retired in 1907, leaving his business to his two sons, Arthur and Herbert Geddes.[^15] After retirement, John and his wife Martha moved back to Victoria, Australia,[^4] where their daughter Ada now lived with her husband Mavis Germaine Blue.[^16]
+
+{{< figure library="true" src="JohnGeddesRetires.jpg" title="John retires, leaving his business to his sons - Southern Cross, 23 February 1907" lightbox="true" >}}
 
 [^15]: John Geddes retires https://paperspast.natlib.govt.nz/newspapers/ST19070214.2.39.7 Southland Times, Issue 10963, 14 February 1907, Page 3; https://paperspast.natlib.govt.nz/newspapers/ST19070216.2.4.7 Southland Times, Issue 10965, 16 February 1907, Page 1; https://paperspast.natlib.govt.nz/newspapers/ST19070218.2.36.7 Southland Times, Issue 10966, 18 February 1907, Page 3; https://paperspast.natlib.govt.nz/newspapers/ST19070219.2.45.6 Southland Times, Issue 10967, 19 February 1907, Page 3; https://paperspast.natlib.govt.nz/newspapers/ST19070220.2.38.5 Southland Times, Issue 10968, 20 February 1907, Page 3; https://paperspast.natlib.govt.nz/newspapers/SOCR19070223.2.28.2 Southern Cross, Volume 14, Issue 50, 23 February 1907, Page 11 - Papers Past, the National Library of New Zealand.
 [^16]: John's daughter Ada's wedding announcement - https://paperspast.natlib.govt.nz/newspapers/SOCR18960425.2.21 Southern Cross, Volume 4, Issue 4, 25 April 1896, Page 8; https://paperspast.natlib.govt.nz/newspapers/ME18960421.2.5 Mataura Ensign, Issue 126, 21 April 1896, Page 2 - Papers Past, the National Library of New Zealand.

@@ -29,7 +29,7 @@ After landing at Victoria in 1863 at the age of ~24, John became a cutter for Me
 
 ## Marriage
 
-On the 20th of February, 1867, John married a Miss Martha Mirk at Kyneton, Victoria - the marriage was performed by a Reverend John Pennell. [^3] [^4] Martha was originally from Fraserburgh, Aberdeenshire, the youngest of the four daughters of Captain Andrew Tod Mirk (born in [Bo'ness, Scotland]( https://www.google.com/maps/place/Bo'ness,+UK/@56.0101044,-3.6141306,14z/data=!3m1!4b1!4m5!3m4!1s0x4887d652b0fb7533:0xda531a858ce9ddd4!8m2!3d56.0130357!4d-3.6035314)) and Mary Mirk (n&eacute;e Cumine).[^5] Martha's father Andrew had drowned in 1848 in a storm at Peterhead Harbour in the north of Scotland when Martha was 10 and her mother also died while she was young. 
+On the 20th of February, 1867, John married a Miss Martha Mirk at Kyneton, Victoria - the marriage was performed by a Reverend John Pennell. [^3] [^4] Martha was originally from Fraserburgh, Aberdeenshire, the youngest of the four daughters of Captain Andrew Tod Mirk (born in [Bo'ness, Scotland]( https://www.google.com/maps/place/Bo'ness,+UK/@56.0101044,-3.6141306,14z/data=!3m1!4b1!4m5!3m4!1s0x4887d652b0fb7533:0xda531a858ce9ddd4!8m2!3d56.0130357!4d-3.6035314)) and Mary Mirk (n&eacute;e Cumine/Cumming).[^5] Martha's father Andrew had drowned in 1848 in a storm at Peterhead Harbour in the north of Scotland when Martha was 10 and her mother also died while she was young. 
 
 {{< figure library="true" src="GeddesMirkWedding.jpg" title="John & Martha's Golden Wedding Anniversary Announcement - The Southland Times, 3rd March 1917" lightbox="true" >}}
 

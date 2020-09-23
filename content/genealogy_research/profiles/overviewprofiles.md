@@ -13,14 +13,9 @@ weight: 1
 ---
 ## Recently Added Profiles
 
+* [Ada Selina Mary Geddes (1871 - 1917)]({{< ref "/genealogy_research/profiles/adasmgeddes1871.md" >}})
+
 * [John Haining Geddes (1839 - 1926)]({{< ref "/genealogy_research/profiles/johnhgeddes1839.md" >}})
-
-* [Thomas Jefcoate (1839 - 1913)]({{< ref "/genealogy_research/profiles/thomasjefcoate1839.md" >}})
-
-* [Jane Donnelly (1860 - 1912)]({{< ref "/genealogy_research/profiles/janedonnelly1860.md" >}})
-
-* [Thomas Brown (1848 - 1937)]({{< ref "/genealogy_research/profiles/thomasbrown1835.md" >}})
-
 
 ## Current Ancestor Profiles
 I'm going to group these based on which grandparent's family they belong to, and within those groupings they will be alphabetical by last name (maiden name), then first name, then middle name, and if there are multiple family members with the same name they will then be ordered chronologically.
@@ -46,6 +41,8 @@ I'm going to group these based on which grandparent's family they belong to, and
 * [Jane Donnelly (1860 - 1912)]({{< ref "/genealogy_research/profiles/janedonnelly1860.md" >}})
 
 ### Wilson Family Profiles
+
+* [Ada Selina Mary Geddes (1871 - 1917)]({{< ref "/genealogy_research/profiles/adasmgeddes1871.md" >}})
 
 * [John Haining Geddes (1839 - 1926)]({{< ref "/genealogy_research/profiles/johnhgeddes1839.md" >}})
 

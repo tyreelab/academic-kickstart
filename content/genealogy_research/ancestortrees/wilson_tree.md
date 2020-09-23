@@ -19,6 +19,8 @@ Five generations back through my Grandfather Arch Wilson's line:
 ## Wilson Family Profiles
 Family members from this tree with profiles:
 
+* [Ada Selina Mary Geddes (1871 - 1917)]({{< ref "/genealogy_research/profiles/adasmgeddes1871.md" >}})
+
 * [John Haining Geddes (1839 - 1926)]({{< ref "/genealogy_research/profiles/johnhgeddes1839.md" >}})
 
 * [Mary Sillars (1848 - 1937)]({{< ref "/genealogy_research/profiles/marysillars1848.md" >}})

@@ -29,11 +29,13 @@ After landing at Victoria in 1863 at the age of ~24, John became a cutter for Me
 
 ## Marriage
 
-On the 20th of February, 1867, John married a Miss Martha Mirk at Kyneton, Victoria - the marriage was performed by a Reverend John Pennell. [^3] [^4] Martha was originally from Fraserburgh, Aberdeenshire, the youngest of the four daughters of Captain Andrew Tod Mirk (born in [Bo'ness, Scotland]( https://www.google.com/maps/place/Bo'ness,+UK/@56.0101044,-3.6141306,14z/data=!3m1!4b1!4m5!3m4!1s0x4887d652b0fb7533:0xda531a858ce9ddd4!8m2!3d56.0130357!4d-3.6035314)) and Mary Mirk (n&eacute;e Cumine/Cumming).[^5] Martha's father Andrew had drowned in 1848 in a storm at Peterhead Harbour in the north of Scotland when Martha was 10 and her mother also died while she was young. 
+On the 20th of February, 1867, John married a Miss Martha Mirk at Kyneton, Victoria - the marriage was performed by a Reverend John Pennell. [^3]
+[^4] Martha was originally from Fraserburgh, Aberdeenshire, the youngest of the four daughters of Captain Andrew Tod Mirk (born in [Bo'ness, Scotland]( https://www.google.com/maps/place/Bo'ness,+UK/@56.0101044,-3.6141306,14z/data=!3m1!4b1!4m5!3m4!1s0x4887d652b0fb7533:0xda531a858ce9ddd4!8m2!3d56.0130357!4d-3.6035314)) and Mary Mirk (n&eacute;e Cumine/Cumming).[^5] Martha's father Andrew had drowned in 1848 in a storm at Peterhead Harbour in the north of Scotland when Martha was 10 and her mother also died while she was young. 
 
 {{< figure library="true" src="GeddesMirkWedding.jpg" title="John & Martha's Golden Wedding Anniversary Announcement - The Southland Times, 3rd March 1917" lightbox="true" >}}
 
-While still in Victoria, John and Martha had three children: Alfred Alexander Geddes, born 15th November 1869 and christened on the 9th of January 1870 in a Methodist church in Maldon, Victoria, Australia; [^6] Ada Selina Mary Geddes, born on the 27th June and christened on the 6th of August in 1871 in a Methodist church in Maldon, Victoria, Australia; [^7] and Ethel Ellen Geddes, born on the 22nd of January, and christened on the 8th of March in 1874 in a Methodist church in Maldon, Victoria, Australia. [^8]
+While still in Victoria, John and Martha had three children: Alfred Alexander Geddes, born 15th November 1869 and christened on the 9th of January 1870 in a Methodist church in Maldon, Victoria, Australia; [^6]
+[Ada Selina Mary Geddes]({{< ref "/genealogy_research/profiles/adasmgeddes1871.md" >}}), born on the 27th June and christened on the 6th of August in 1871 in a Methodist church in Maldon, Victoria, Australia; [^7] and Ethel Ellen Geddes, born on the 22nd of January, and christened on the 8th of March in 1874 in a Methodist church in Maldon, Victoria, Australia. [^8]
 
 [^3]: The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records. Reference #: 328
 [^4]: John & Martha's Golden Wedding Anniversary Announcement - https://paperspast.natlib.govt.nz/newspapers/ST19170303.2.16 ; Southland Times, Issue 17964, 3 March 1917, Page 4; Papers Past, the National Library of New Zealand
@@ -76,7 +78,7 @@ John was also attached to the Loyal St. George Lodge of Oddfellows, Manchester U
 [^13]: Withdrawing candidacy from the Mayoral election, 1884 - https://paperspast.natlib.govt.nz/newspapers/ST18841119.2.22.2 Southland Times, Issue 5089, 19 November 1884, Page 3 - Papers Past, the National Library of New Zealand.
 [^14]: Winning the Mayoral election, 1885 - https://paperspast.natlib.govt.nz/newspapers/ST18851126.2.23.1 Southland Times, Issue 9075, 26 November 1885, Page 3 - Papers Past, the National Library of New Zealand.
 
-John retired in 1907, leaving his business to his two sons, Arthur and Herbert Geddes.[^15] After retirement, John and his wife Martha moved back to Victoria, Australia,[^4] where their daughter Ada lived with her daughter Mavis Germaine Blue.[^16]
+John retired in 1907, leaving his business to his two sons, Arthur and Herbert Geddes.[^15] After retirement, John and his wife Martha moved back to Victoria, Australia,[^4] where their daughter [Ada Selina Mary Blue]({{< ref "/genealogy_research/profiles/adasmgeddes1871.md" >}}) lived with her daughter Mavis Germaine Blue.[^16]
 
 {{< figure library="true" src="JohnGeddesRetires.jpg" title="John retires, leaving his business to his sons - Southern Cross, 23 February 1907" lightbox="true" >}}
 
@@ -85,7 +87,7 @@ John retired in 1907, leaving his business to his two sons, Arthur and Herbert G
 
 ## Death
 
-John passed away in 1926 at the age of 73, just five months after the death of his wife, Martha. [^17] John is buried with his wife Martha and daughter Ada Selina Mary Blue at the Coburg Pine Ridge Cemetery in the Presbyterian Area, plot number 904.[^18]
+John passed away in 1926 at the age of 73, just five months after the death of his wife, Martha. [^17] John is buried with his wife Martha and daughter [Ada Selina Mary Blue]({{< ref "/genealogy_research/profiles/adasmgeddes1871.md" >}}) at the Coburg Pine Ridge Cemetery in the Presbyterian Area, plot number 904.[^18]
 
 {{< figure library="true" src="GeddesGravestone.jpg" title="John & Martha's Gravestone - Coburg Pine Ridge Cemetery, Coburg, Moreland City, Victoria, Australia" lightbox="true" >}}
 
